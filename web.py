@@ -181,7 +181,7 @@ def load_data():
         "镁空气电池": "镁空气电池数据收集.csv",
         '镁合金力学性能': 'Mag力学性能.csv',
         '镁合金腐蚀数据': 'Mag腐蚀数据.csv',
-        '储氢催化剂': '储氢催化剂实验数据.csv',
+        '储氢催化剂': '储氢.csv',
         '电催化数据': '电催化.csv',
         '自修复聚氨酯': '自修复聚氨酯1.csv',
     }
@@ -300,7 +300,7 @@ def show_login():
             else:
                 st.markdown('<div style="font-size: 2rem;">⚙️🔬</div>', unsafe_allow_html=True)
         with title_col2:
-            st.markdown('<h3 style="font-size: 50px;">轻金属材料与安全储能重点实验室</h3>', unsafe_allow_html=True)
+            st.markdown('<h3 style="font-size: 50px;">轻金属材料防护与安全储能重点实验室</h3>', unsafe_allow_html=True)
             st.markdown('<h1 style="font-size: 40px;">材料数据智能平台</h1>', unsafe_allow_html=True)
             st.markdown('<p style="font-size: 30px; color: #475569;">AI for Materials Science</p>',
                         unsafe_allow_html=True)
@@ -317,7 +317,7 @@ def show_login():
                 else:
                     st.error("用户名或密码错误")
 
-        st.caption("© 2025 河南省轻金属材料与安全储能重点实验室")
+        st.caption("© 2025 河南省轻金属材料防护与安全储能重点实验室")
         # 增加一点底部留白（通过一个空行实现）
         st.markdown('----------------------------------------------------------------------')
 
@@ -336,7 +336,7 @@ def back_to_home_button():
 def show_home(df_dict):
     st.markdown("---")
     st.title("🏠 数据平台首页")
-    st.markdown("欢迎使用**轻金属材料与安全储能重点实验室**材料数据智能平台。")
+    st.markdown("欢迎使用**河南省轻金属材料防护与安全储能重点实验室**材料数据智能平台。")
 
     if df_dict is None or len(df_dict) == 0:
         st.error("没有加载到任何数据集，请检查数据文件。")
