@@ -1,0 +1,585 @@
+DOI	Äê·Ý	ID	ÂÛÎÄ	ÆÚ¿¯	Ñô¼«	Òõ¼«	µç½âÒº	ÀíÂÛÈÝÁ¿£¨mAh g-1£©	µçÁ÷ÃÜ¶È(mA g-1)	³õÊ¼ÈÝÁ¿(mAh g-1)	×î¸ßÈÝÁ¿(mAh g-1)	·ÅµçµçÑ¹£¨vs.Mg/Mg2+£©	Ñ­»·È¦Êý	·ÅµçºóÈÝÁ¿(mAh g-1)	ÈÝÁ¿±£³ÖÂÊ(%)	ÎÂ¶È(¡æ)	Ñ­»·È¦Êý	µç×è£¨¦¸£©	µ¥Î»Ãæ»ýÉÏµÄµçÁ÷ÃÜ¶È£¨mA cm-2£©	Ã¾ÍÑÀëÊ±µÄ¹ýµçÎ»(mV)	Àë×Óµçµ¼ÂÊ(mS cm-1)	µç»¯Ñ§´°¿Ú£¨V)	¿âÂ×Ð§ÂÊ£¨%£©	ÌîÐ´ÈË	¸´ºËÈË
+10.1021/nl403874y	2014/1/14	MIB0001	Highly Reversible Mg Insertion in Nanostructured Bi for Mg Ion Batteries	Nano Letters	Mg	Bi-NTs	"Mg(BH4)2, LiBH4, and diglyme"		0.05 C		350													»ÆÑÇ·É	ÐÜÒ°
+10.1021/nl403874y	2014/1/14	MIB0002	Highly Reversible Mg Insertion in Nanostructured Bi for Mg Ion Batteries	Nano Letters	Mg	Bi-NTs	"Mg(BH4)2, LiBH4, and diglyme"		5 C		216														
+10.1021/nl403874y	2014/1/14	MIB0003	Highly Reversible Mg Insertion in Nanostructured Bi for Mg Ion Batteries	Nano Letters	Mg	Bi-Micro	"Mg(BH4)2, LiBH4, and diglyme"		0.05 C		350														
+10.1021/nl403874y	2014/1/14	MIB0004	Highly Reversible Mg Insertion in Nanostructured Bi for Mg Ion Batteries	Nano Letters	Mg	Bi-Micro	"Mg(BH4)2, LiBH4, and diglyme"		5 C		51														
+10.1155/2014/107918	2014/1/21	MIB0005	Carbyne Polysulfide as a Novel Cathode Material for Rechargeable Magnesium Batteries	Open Access	Mg	carbyne polysulfide	0.25?mol?L?1 Mg(AlCl2EtBu)2/THF	609.1	3.9		327.7													»ÆÑÇ·É	ÐÜÒ°
+?10.1039/c5ta00118h	2015/2/11	MIB0006	The unexpected discovery of the Mg(HMDS)2/MgCl2 complex as a magnesium electrolyte for rechargeable magnesium batteries	Journal of Materials Chemistry A	Mg 	Mo6S8	2Mg(HDMS)2¨CMgCl2															2.3	85	»ÆÑÇ·É	ÐÜÒ°
+?10.1039/c5ta00118h	2015/2/11	MIB0007	The unexpected discovery of the Mg(HMDS)2/MgCl2 complex as a magnesium electrolyte for rechargeable magnesium batteries	Journal of Materials Chemistry A	Mg 	Mo6S8	Mg(HDMS)2¨C2MgCl2															2.75	95		
+?10.1039/c5ta00118h	2015/2/11	MIB0008	The unexpected discovery of the Mg(HMDS)2/MgCl2 complex as a magnesium electrolyte for rechargeable magnesium batteries	Journal of Materials Chemistry A	Mg 	Mo6S8	0.5M Mg(HDMS)2¨C4MgCl2		0.1 C		86					55						2.8	99		
+10.1016/j.jpowsour.2014.11.113	2015/2/15	MIB0009	High concentration magnesium borohydride/tetraglyme electrolyte for rechargeable magnesium batteries	Journal of Power Sources	Mg 	Mo6S8	magnesium borohydride/tetraglyme	122.8	0.05 C	65.9											9.66			ÐÜÒ°	»ÆÑÇ·É
+10.1016/j.jpowsour.2014.11.113	2015/2/15	MIB0010	High concentration magnesium borohydride/tetraglyme electrolyte for rechargeable magnesium batteries	Journal of Power Sources	Mg 	Mo6S8	magnesium borohydride/tetraglyme		0.05 C	76.8			107		92.4										
+10.1039/c5cc01225b	2015/3/28	MIB0011	A Lewis acid-free and phenolate-based magnesium electrolyte for rechargeable magnesium batteries	Chemical Communications	Mg 	Mo6S8	0.5 M (DTBP)MgCl¨CMgCl2 THF solution		0.05 C		100					55								ÐÜÒ°	»ÆÑÇ·É
+10.1039/c5cc01225b	2015/3/28	MIB0012	A Lewis acid-free and phenolate-based magnesium electrolyte for rechargeable magnesium batteries	Chemical Communications	Mg 	Mo6S8	0.5 M (DTBP)MgCl¨CMgCl2 THF solution		0.05 C		65														
+?10.1016/j.jpowsour.2015.06.127	2015/10/30	MIB0013	Flower-like CoS with nanostructures as a new cathode-active material for rechargeable magnesium batteries	Journal of Power Sources	Mg 	CoS	0.25 mol L?1 Mg(AlCl2EtBu)2/THF	589	50				5	163	76.8									ÐÜÒ°	»ÆÑÇ·É
+?10.1016/j.jpowsour.2015.06.127	2015/10/30	MIB0014	Flower-like CoS with nanostructures as a new cathode-active material for rechargeable magnesium batteries	Journal of Power Sources	Mg 	CoS	0.25 mol L?1 Mg(AlCl2EtBu)2/THF		50				10	135.2	92.2										
+?10.1016/j.jpowsour.2015.06.127	2015/10/30	MIB0015	Flower-like CoS with nanostructures as a new cathode-active material for rechargeable magnesium batteries	Journal of Power Sources	Mg 	CoS	0.25 mol L?1 Mg(AlCl2EtBu)2/THF		50				40	125.2	96.3										
+?10.1016/j.jpowsour.2015.06.127	2015/10/30	MIB0016	Flower-like CoS with nanostructures as a new cathode-active material for rechargeable magnesium batteries	Journal of Power Sources	Mg 	CoS	0.25 mol L?1 Mg(AlCl2EtBu)2/THF		50				60	112	94.5										
+?10.1039/c6cp00448b	2016/5/19	MIB0017	Anti-site mixing governs the electrochemical performances of olivine-type MgMnSiO4 cathodes for rechargeable magnesium batteries	Physical Chemistry Chemical Physics	Mg 	MgMnSiO4	0.5 M magnesium (trifluoromethanesulfonyl) amide (Mg(TFSA)2) in acetonitrile		C/20	111		2.9				55								ÐÜÒ°	»ÆÑÇ·É
+10.1039/c6ee00724d	2016/5/26	MIB0018	A high capacity thiospinel cathode for Mg batteries	"Energy &
+Environmental
+Science"	Mg 	TI2S4	APC in THF or G4		1/20C	200	200													ÐÜÒ°	»ÆÑÇ·É
+10.1039/c6ee00724d	2016/5/26	MIB0019	A high capacity thiospinel cathode for Mg batteries	"Energy &
+Environmental
+Science"	Mg 	TI2S4	APC in THF or G4		C/10		195														
+10.1039/c6ee00724d	2016/5/26	MIB0020	A high capacity thiospinel cathode for Mg batteries	"Energy &
+Environmental
+Science"	Mg 	TI2S4	APC in THF or G4		C/5		190														
+10.1039/c6ee00724d	2016/5/26	MIB0021	A high capacity thiospinel cathode for Mg batteries	"Energy &
+Environmental
+Science"	Mg 	TI2S4	APC in THF or G4		C/20		195														
+10.1039/c6ee00724d	2016/5/26	MIB0022	A high capacity thiospinel cathode for Mg batteries	"Energy &
+Environmental
+Science"	Mg 	TI2S4	APC in THF or G4		C/5		175														
+10.1039/c6ee00724d	2016/5/26	MIB0023	A high capacity thiospinel cathode for Mg batteries	"Energy &
+Environmental
+Science"	Mg 	TI2S4	APC in THF or G4		C/10				40	140											
+?10.1002/adfm.201601448	2016/5/30	MIB0024	Toward a Magnesium-Iodine Battery	ADVANCED FUNCTIONAL MATERIALS	Mg 	I?/I3? 	iodoaluminate ionic liquid												0.5	50				ÐÜÒ°	»ÆÑÇ·É
+10.1021/acsenergylett.6b00145	2016/6/23	MIB0025	Layered TiS2 Positive Electrode for Mg Batteries	ACS Energy	Mg 	TiS2	APC in THF		1/20C		270					60								ÐÜÒ°	»ÆÑÇ·É
+10.1021/acsenergylett.6b00145	2016/6/23	MIB0026	Layered TiS2 Positive Electrode for Mg Batteries	ACS Energy	Mg 	TiS2	APC in THF		 C/10		250														
+10.1021/acsenergylett.6b00145	2016/6/23	MIB0027	Layered TiS2 Positive Electrode for Mg Batteries	ACS Energy	Mg 	TiS2	APC in THF		 C/5		140														
+?10.1016/j.jpowsour.2016.05.034	2016/8/15	MIB0028	Selenium and selenium-sulfur cathode materials for high-energy rechargeable magnesium batteries	Journal of Power Sources	Mg 	Se	a mixture of tetraglyme and diglyme in a volumetric ratio of 1:1 as solvents		0.2 c			1.4												ÐÜÒ°	»ÆÑÇ·É
+?10.1016/j.jpowsour.2016.05.034	2016/8/15	MIB0029	Selenium and selenium-sulfur cathode materials for high-energy rechargeable magnesium batteries	Journal of Power Sources	Mg 	Se	a mixture of tetraglyme and diglyme in a volumetric ratio of 1:1 as solvents		3C		320														
+?10.1016/j.jpowsour.2016.05.034	2016/8/15	MIB0030	Selenium and selenium-sulfur cathode materials for high-energy rechargeable magnesium batteries	Journal of Power Sources	Mg 	Se	a mixture of tetraglyme and diglyme in a volumetric ratio of 1:1 as solvents																		
+?10.1016/j.jpowsour.2016.05.034	2016/8/15	MIB0031	Selenium and selenium-sulfur cathode materials for high-energy rechargeable magnesium batteries	Journal of Power Sources	Mg 	SeS2	a mixture of tetraglyme and diglyme in a volumetric ratio of 1:1 as solvents		40		650														
+10.1016/j.electacta.2016.05.202	2016/8/20	MIB0032	Copper Selenide as a New Cathode Material based on Displacement Reaction for Rechargeable Magnesium Batteries	Electrochimica Acta	Mg	¦Â-Cu2Se	the Mg(AlCl2EtBu)2 electrolyte	260	5		150	0.95												»ÆÑÇ·É	ÐÜÒ°
+?10.1021/acs.nanolett.6b02593	2016/9/16	MIB0033	Disulfide-Bridged (Mo3S11) Cluster Polymer: Molecular Dynamics and Application as Electrode Material for a Rechargeable Magnesium Battery	Nano Letters	Mg	Mo3S11	LiCl + [Mg2Cl3]+[AlPh2Cl2]?/THF) electrolyte		10		117	1.05												»ÆÑÇ·É	ÐÜÒ°
+?10.1021/acs.nanolett.6b02593	2016/9/16	MIB0034	Disulfide-Bridged (Mo3S11) Cluster Polymer: Molecular Dynamics and Application as Electrode Material for a Rechargeable Magnesium Battery	Nano Letters	Mg	Mo3S11	LiCl + [Mg2Cl3]+[AlPh2Cl2]?/THF) electrolyte		20		101														
+?10.1021/acs.nanolett.6b02593	2016/9/16	MIB0035	Disulfide-Bridged (Mo3S11) Cluster Polymer: Molecular Dynamics and Application as Electrode Material for a Rechargeable Magnesium Battery	Nano Letters	Mg	Mo3S11	LiCl + [Mg2Cl3]+[AlPh2Cl2]?/THF) electrolyte		50		77														
+10.1021/acs.langmuir.7b01609	2017/7/6	MIB0036	Hexafluorophosphate-Based Solutions for Mg Batteries and the Importance of Chlorides	Langmuir	Mg	Pt and stainless steel	highly pure LiPF6 in pure DME																	»ÆÑÇ·É	ÐÜÒ°
+10.1038/s41467-017-00431-9	2017/8/24	MIB0037	"Fast kinetics of magnesium monochloride cations
+in interlayer-expanded titanium disulfide for
+magnesium rechargeable batteries"	Nature Communications	Mg	exTiS2	"a solution of 0.25 M
+[Mg2Cl3]+[AlPh2Cl2] in THF£¨Standard APC electrolyte£©"		24		173													»ÆÑÇ·É	ÐÜÒ°
+10.1038/s41467-017-00431-9	2017/8/24	MIB0038	"Fast kinetics of magnesium monochloride cations
+in interlayer-expanded titanium disulfide for
+magnesium rechargeable batteries"	Nature Communications	Mg	exTiS2	"a solution of 0.25 M
+[Mg2Cl3]+[AlPh2Cl2] in THF£¨Standard APC electrolyte£©"		1C				400		80										
+10.1039/c8nr03375g	2018/6/4	MIB0039	Copper sulfide nanoparticles as high-performance cathode materials for magnesium secondary batteries	Nanoscale	Mg	"CuS-I (Aladdin, 99.99%"	(Mg(HMDS)2¡¢ÎÞË®¶þ¸Ê´¼¶þ¼×ÃÑ¡¢AlCl3		50	275			350	120	58									»ÆÑÇ·É	ÐÜÒ°
+10.1039/c8nr03375g	2018/6/4	MIB0040	Copper sulfide nanoparticles as high-performance cathode materials for magnesium secondary batteries	Nanoscale	Mg	"CuS-I (Aladdin, 99.99%"	(Mg(HMDS)2¡¢ÎÞË®¶þ¸Ê´¼¶þ¼×ÃÑ¡¢AlCl3		1000		90														
+10.1039/c8nr03375g	2018/6/4	MIB0041	Copper sulfide nanoparticles as high-performance cathode materials for magnesium secondary batteries	Nanoscale	Mg	"CuS-II (Macklin, 99.0%)"	(Mg(HMDS)2¡¢ÎÞË®¶þ¸Ê´¼¶þ¼×ÃÑ¡¢AlCl3		50	250															
+10.1016/j.mtener.2018.06.002	2018/6/23	MIB0042	Multi-dentate phenoxyimine magnesium chloride complex for magnesium battery electrolyte	Materials Today Energy	Ã¾°å/½ðÆ¬£¨¹¤×÷µç¼«£©¡¢ÒøË¿£¨²Î±Èµç¼«£©																			ÐÜÒ°	»ÆÑÇ·É
+10.1016/j.electacta.2018.04.200	2018/7/1	MIB0043	Electrochemical and structural investigations of different polymorphs of TiO2 in magnesium and hybrid lithium/magnesium batteries	Electrochimica Acta	Mg	TiO2	APC in THF	336	C/12	204														ÐÜÒ°	»ÆÑÇ·É
+10.1016/j.electacta.2018.04.200	2018/7/1	MIB0044	Electrochemical and structural investigations of different polymorphs of TiO2 in magnesium and hybrid lithium/magnesium batteries	Electrochimica Acta	Mg	Ë®ÈÈ·¨ÖÆ±¸TiO2	APC in THF		C/12	231															
+"10.1016/j.jpowsour.2019.03.049
+"	2019/3/20	MIB0045	Prototype rechargeable magnesium batteries using ionic liquid electrolytes	Journal of Power Sources	Mg	V2O5	?[Mg(BH4)2]0.3[N07TFSI]0.7?electrolyte		20	140	140													ÐÜÒ°	»ÆÑÇ·É
+10.1002/ente.201800777	2019/4/1	MIB0046	"Cu9S5 nanoflower cathode for Mg secondary batteries: 
+high performance and reaction mechanism"	Energy Technology	Mg	Cu9S	(Mg(HMDS)2¡¢ÎÞË®¶þ¸Ê´¼¶þ¼×ÃÑ¡¢AlCl3		50	136	200		100		93									ÐÜÒ°	»ÆÑÇ·É
+10.1002/ente.201800777	2019/4/1	MIB0047	"Cu9S5 nanoflower cathode for Mg secondary batteries: 
+high performance and reaction mechanism"	Energy Technology	Mg	Cu9S	(Mg(HMDS)2¡¢ÎÞË®¶þ¸Ê´¼¶þ¼×ÃÑ¡¢AlCl3		1000		90														
+10.1002/ente.201800777	2019/4/1	MIB0048	"Cu9S5 nanoflower cathode for Mg secondary batteries: 
+high performance and reaction mechanism"	Energy Technology	Mg	Cu9S	(Mg(HMDS)2¡¢ÎÞË®¶þ¸Ê´¼¶þ¼×ÃÑ¡¢AlCl3		100				80	168											
+10.1002/cssc.201900225	2019/4/9	MIB0049	MgSc2Se4¡ªA Magnesium Solid Ionic Conductor for All-Solid-State Mg Batteries?	ChemSusChem	Mg	MgSc2Se4	0.4 M Mg[B(hfip)4]2 in DME		10	40		0.5-2.7												ÐÜÒ°	»ÆÑÇ·É
+10.1016/j.ensm.2019.11.012	2019/11/11	MIB0050	Rechargeable Mg metal batteries enabled by a protection layer formed in vivo	Energy Storage Materials	Mg	Ti3C2	?0.4?M GeCl4?in 0.5?M?Mg(TFSI)2/DME		10				30	87.8										»ÆÑÇ·É	ÐÜÒ°
+10.1016/j.ensm.2019.11.012	2019/11/11	MIB0051	Rechargeable Mg metal batteries enabled by a protection layer formed in vivo	Energy Storage Materials	Mg	Ti3C2	?0.4?M GeCl4?in 0.5?M?Mg(TFSI)2/DME		50		100														
+10.1149/1945-7111/ab7fb4	2020/1/5	MIB0052	"Chrysalis-Like Graphene Oxide Decorated Vanadium-Based
+Nanoparticles: An Extremely High-Power Cathode for Magnesium
+Secondary Batteries
+"	The Electrochemical Society	Mg	GO@V	2wt %µÄ¦Ä-MgCl2ÈÜ½âµ½EMImCl/(AlCl3)1.5Àë×ÓÒºÌå		1000		72													»ÆÑÇ·É	ÐÜÒ°
+10.1016/j.jechem.2020.01.018	2020/1/23	MIB0053	Ni0.85Se hexagonal nanosheets as an advanced conversion cathode for Mg secondary batteries	Energy Chemistry	Mg	D-Ni0.85Se	(Mg(HMDS)2¡¢ÎÞË®¶þ¸Ê´¼¶þ¼×ÃÑ¡¢AlCl3¡¢MgCl2		50		168													»ÆÑÇ·É	ÐÜÒ°
+10.1016/j.jechem.2020.01.018	2020/1/23	MIB0054	Ni0.85Se hexagonal nanosheets as an advanced conversion cathode for Mg secondary batteries	Energy Chemistry	Mg	D-Ni0.85Se	(Mg(HMDS)2¡¢ÎÞË®¶þ¸Ê´¼¶þ¼×ÃÑ¡¢AlCl3¡¢MgCl2		500		92														
+10.1016/j.jechem.2020.01.018	2020/1/23	MIB0055	Ni0.85Se hexagonal nanosheets as an advanced conversion cathode for Mg secondary batteries	Energy Chemistry	Mg	F-Ni0.85Se	(Mg(HMDS)2¡¢ÎÞË®¶þ¸Ê´¼¶þ¼×ÃÑ¡¢AlCl3¡¢MgCl2		50		100														
+10.1016/j.jpowsour.2020.227962	2020/3/4	MIB0056	"Synthesis, electrochemical properties, and changes in crystal and electronic structures during charge/discharge process of spinel-type cathode materials Mg4V5-xNixO12 (x = 0, 0.3, 0.6, 1.0) for magnesium secondary batteries"	Journal of Power Sources	" Mg:Al:Zn = 96:3:1) 
+
+ "	Mg4V5-xNixO12	Mg[N(SO2CF3)2]2/¸ÊÓÍÈýõ¥		1		194					90								»ÆÑÇ·É	ÐÜÒ°
+10.1021/acscatal.0c01956	2020/6/16	MIB0057	The Role of Surface Adsorbed Cl¨C Complexes in Rechargeable Magnesium Batteries	ACS Catalysis	Mg	 Cu0.09Mo6S8 	0.25 M MgTFSI2?+ 0.5 M MgCl2/DME																	»ÆÑÇ·É	ÐÜÒ°
+10.1021/acscatal.0c01956	2020/6/16	MIB0058	The Role of Surface Adsorbed Cl¨C Complexes in Rechargeable Magnesium Batteries	ACS Catalysis	Mg	 Cu0.09Mo6S8 	APC																		
+10.1021/acsami.0c09948	2020/8/7	MIB0059	Critical Issues of Fluorinated Alkoxyborate-Based Electrolytes in Magnesium Battery Applications	ACS Applied Materials & Interfaces	Mg	Mg	Mg[B(HFIP)4]2																	ÐÜÒ°	»ÆÑÇ·É
+10.1016/j.cej.2020.126398	2020/12/6	MIB0060	"Improving Electrochemical Performance of Rechargeable Magnesium Batteries 
+with Conditioning-free Mg-Cl Complex Electrolyte"	Chemical Engineering Journal	Mg		MAT electrolyte						100		84									ÐÜÒ°	»ÆÑÇ·É
+10.1016/j.cej.2021.129545	2021/3/29	MIB0061	Co0.85Se hollow polyhedrons entangled by carbon nanotubes as a high-performance cathode for magnesium secondary batteries	Chemical Engineering Journal	Mg	Co0.85Se/CNT	(Mg(HMDS)2¡¢ËÄÒÒ¶þ´¼¶þ¼×ÃÑ¡¢AlCl3		1000		95													ÐÜÒ°	»ÆÑÇ·É
+10.1016/j.cej.2021.129545	2021/3/29	MIB0062	Co0.85Se hollow polyhedrons entangled by carbon nanotubes as a high-performance cathode for magnesium secondary batteries	Chemical Engineering Journal	Mg	Co0.85Se/CNT	(Mg(HMDS)2¡¢ËÄÒÒ¶þ´¼¶þ¼×ÃÑ¡¢AlCl3		200				500		76										
+10.1016/j.cej.2021.129545	2021/3/29	MIB0063	Co0.85Se hollow polyhedrons entangled by carbon nanotubes as a high-performance cathode for magnesium secondary batteries	Chemical Engineering Journal	Mg	Co0.85Se/CNT	(Mg(HMDS)2¡¢ËÄÒÒ¶þ´¼¶þ¼×ÃÑ¡¢AlCl3		50		194														
+10.1016/j.cej.2021.129545	2021/3/29	MIB0064	Co0.85Se hollow polyhedrons entangled by carbon nanotubes as a high-performance cathode for magnesium secondary batteries	Chemical Engineering Journal	Mg	Co0.85Se	(Mg(HMDS)2¡¢ËÄÒÒ¶þ´¼¶þ¼×ÃÑ¡¢AlCl3		1000		73														
+10.1021/acsami.1c06669	2021/7/9	MIB0065	"A Chlorine-Free Electrolyte Based on Non-nucleophilic Magnesium
+Bis(diisopropyl)amide and Ionic Liquid for Rechargeable Magnesium
+Batteries"	ACS Applied Materials & Interfaces	Mg	Se/pPAN8	1 M LiTFSI		0.2 C	447.8			70	296.5										ÐÜÒ°	»ÆÑÇ·É
+10.1021/acsami.1c06669	2021/7/9	MIB0066	"A Chlorine-Free Electrolyte Based on Non-nucleophilic Magnesium
+Bis(diisopropyl)amide and Ionic Liquid for Rechargeable Magnesium
+Batteries"	ACS Applied Materials & Interfaces	Mg	Se/pPAN8	MBA-2Mgcl2-2AlCl3+LiTFI/THF		0.1 C		600		70	130											
+10.1016/j.jma.2021.05.017	2021/7/22	MIB0067	Low-temperatures synthesis of CuS nanospheres as cathode material for magnesium second batteries	Magnesium and Alloys	Mg	CuS	APC electrolyte		20	200	365													ÐÜÒ°	»ÆÑÇ·É
+10.1016/j.jma.2021.05.017	2021/7/22	MIB0068	Low-temperatures synthesis of CuS nanospheres as cathode material for magnesium second batteries	Magnesium and Alloys	Mg	CuS	APC electrolyte		50	171															
+10.1016/j.jma.2021.05.017	2021/7/22	MIB0069	Low-temperatures synthesis of CuS nanospheres as cathode material for magnesium second batteries	Magnesium and Alloys	Mg	CuS	APC electrolyte		100	126															
+10.1016/j.jma.2021.05.017	2021/7/22	MIB0070	Low-temperatures synthesis of CuS nanospheres as cathode material for magnesium second batteries	Magnesium and Alloys	Mg	CuS	APC electrolyte		200	87															
+10.1016/j.jma.2021.05.017	2021/7/22	MIB0071	Low-temperatures synthesis of CuS nanospheres as cathode material for magnesium second batteries	Magnesium and Alloys	Mg	CuS	APC electrolyte		300	40															
+10.1016/j.jma.2021.05.017	2021/7/22	MIB0072	Low-temperatures synthesis of CuS nanospheres as cathode material for magnesium second batteries	Magnesium and Alloys	Mg	CuS	APC electrolyte		1000		250														
+10.1007/s12274-022-4932-z	2022/9/13	MIB0073	"Boosting the cycling stability of rechargeable magnesium batteries
+by regulating the compatibility between nanostructural metal
+sulfide cathodes and non-nucleophilic electrolytes"	Nano Research	Mg	CuS	APC/THF																	»ÆÑÇ·É	ÐÜÒ°
+10.1007/s12274-022-4932-z	2022/9/13	MIB0074	"Boosting the cycling stability of rechargeable magnesium batteries
+by regulating the compatibility between nanostructural metal
+sulfide cathodes and non-nucleophilic electrolytes"	Nano Research	Mg	CuS	"Mg(HMDS)2-MgCl2/THF? 
+"																		
+10.1007/s12274-022-4932-z	2022/9/13	MIB0075	"Boosting the cycling stability of rechargeable magnesium batteries
+by regulating the compatibility between nanostructural metal
+sulfide cathodes and non-nucleophilic electrolytes"	Nano Research	Mg	CuS	?  Mg(HMDS)2-MgCl2/THF-PP14TFSI? 		100				10	195.7											
+10.1007/s12274-022-4932-z	2022/9/13	MIB0076	"Boosting the cycling stability of rechargeable magnesium batteries
+by regulating the compatibility between nanostructural metal
+sulfide cathodes and non-nucleophilic electrolytes"	Nano Research	Mg	CuS	?  Mg(HMDS)2-MgCl2/THF-PP14TFSI? 		100				20	198.7											
+10.1007/s12274-022-4932-z	2022/9/13	MIB0077	"Boosting the cycling stability of rechargeable magnesium batteries
+by regulating the compatibility between nanostructural metal
+sulfide cathodes and non-nucleophilic electrolytes"	Nano Research	Mg	CuS	?  Mg(HMDS)2-MgCl2/THF-PP14TFSI? 		100		213.9		100	167.6											
+10.1007/s12274-022-4932-z	2022/9/13	MIB0078	"Boosting the cycling stability of rechargeable magnesium batteries
+by regulating the compatibility between nanostructural metal
+sulfide cathodes and non-nucleophilic electrolytes"	Nano Research	Mg	CuS	?  Mg(HMDS)2-MgCl2/THF-PP14TFSI? 		300		174.4														
+10.1007/s12274-022-4932-z	2022/9/13	MIB0079	"Boosting the cycling stability of rechargeable magnesium batteries
+by regulating the compatibility between nanostructural metal
+sulfide cathodes and non-nucleophilic electrolytes"	Nano Research	Mg	CuS	?  Mg(HMDS)2-MgCl2/THF-PP14TFSI? 		500		154.2														
+10.1007/s12274-022-4932-z	2022/9/13	MIB0080	"Boosting the cycling stability of rechargeable magnesium batteries
+by regulating the compatibility between nanostructural metal
+sulfide cathodes and non-nucleophilic electrolytes"	Nano Research	Mg	CuS	?  Mg(HMDS)2-MgCl2/THF-PP14TFSI? 		100		207														
+10.1007/s12274-022-4932-z	2022/9/13	MIB0081	"Boosting the cycling stability of rechargeable magnesium batteries
+by regulating the compatibility between nanostructural metal
+sulfide cathodes and non-nucleophilic electrolytes"	Nano Research	Mg	CuS	?  Mg(HMDS)2-MgCl2/THF-PP14TFSI? 		500		160.9		800	98.8											
+10.1007/s12274-022-4932-z	2022/9/13	MIB0082	"Boosting the cycling stability of rechargeable magnesium batteries
+by regulating the compatibility between nanostructural metal
+sulfide cathodes and non-nucleophilic electrolytes"	Nano Research	Mg	CuS	" Mg(TFSI)2-MgCl2-AlCl3/DME
+"																		
+ 10.1021/acsaem.2c03516	2023/1/3	MIB0083	"Insights into the Degradation Mechanism of the Magnesium Anode in Magnesium?Chalcogen Batteries: Revealing Principles for Anode Design with a 3D-Structured Magnesium Anode
+"	ACS Applied Energy Materials	Mg@ACC	S	(CF3)2CHOH-(CF3)2CHOH-MgCl2-DME		0.1 C				800											»ÆÑÇ·É	ÐÜÒ°
+10.1002/advs.202207563	2023/1/17	MIB0084	The Proof-of-Concept of Anode-Free Rechargeable Mg Batteries	Advanced Science	Mg2Mo6S8	Cu	MACCµç½âÒº		20	350	190		100	92										»ÆÑÇ·É	ÐÜÒ°
+ 10.1088/2053-1583/acb278	2023/1/17	MIB0085	Studying ¦Ä-MnO2 /reduced graphene oxide composite cathode in a low-temperature and high voltage-tolerant hybrid electrolyte for aqueous Mg&#2; ion batteries	2D Materials	Mg	MnO2/rGO	MgSO4 MgOAc¡¤4H2O																	»ÆÑÇ·É	ÐÜÒ°
+10.1021/acs.chemmater.2c03641	2023/1/27	MIB0086	Methylamine Magnesium Borohydrides as Electrolytes for All-SolidState Magnesium Batteries	Chemistry of Materials	Mg	Mg	¦Â-Mg(BH4)2¡¤CH3NH2																	»ÆÑÇ·É	ÐÜÒ°
+10.1021/acsomega.2c07689	2023/1/30	MIB0087	Nb-Doped TiO2 with Outstanding Na/Mg-Ion Battery Performance	ACS Omega	Mg	Nb-TiO2	(MgPhCl)2-AlCl3-THF		100	113.8/79.8			50	85										ÐÜÒ°	»ÆÑÇ·É
+10.1021/acsomega.2c07689	2023/1/30	MIB0088	Nb-Doped TiO2 with Outstanding Na/Mg-Ion Battery Performance	ACS Omega	Mg	Nb-TiO2	(MgPhCl)2-AlCl3-THF		50		90														
+10.1021/acsomega.2c07689	2023/1/30	MIB0089	Nb-Doped TiO2 with Outstanding Na/Mg-Ion Battery Performance	ACS Omega	Mg	Nb-TiO2	(MgPhCl)2-AlCl3-THF		100		80.7														
+10.1021/acsomega.2c07689	2023/1/30	MIB0090	Nb-Doped TiO2 with Outstanding Na/Mg-Ion Battery Performance	ACS Omega	Mg	Nb-TiO2	(MgPhCl)2-AlCl3-THF		200		71														
+10.1021/acsomega.2c07689	2023/1/30	MIB0091	Nb-Doped TiO2 with Outstanding Na/Mg-Ion Battery Performance	ACS Omega	Mg	Nb-TiO2	(MgPhCl)2-AlCl3-THF		500		60														
+10.1021/acsomega.2c07689	2023/1/30	MIB0092	Nb-Doped TiO2 with Outstanding Na/Mg-Ion Battery Performance	ACS Omega	Mg	Nb-TiO2	(MgPhCl)2-AlCl3-THF		1000				1000	121.7											
+10.1021/acsomega.2c07689	2023/1/30	MIB0093	Nb-Doped TiO2 with Outstanding Na/Mg-Ion Battery Performance	ACS Omega	Mg	TiO2	(MgPhCl)2-AlCl3-THF		100				50	67											
+10.1016/j.nanoen.2023.108257	2023/2/1	MIB0094	Deeping insight of Mg(CF3SO3)2 and comprehensive modified electrolytewith ionic liquid enabling high-performance magnesium batteries	Nano Energy	Mg	Mo6S8	Mg(CF3SO3)2/AlCl3/MgCl2-PP14TFSI		1 C 				101	67.9										ÐÜÒ°	»ÆÑÇ·É
+10.1016/j.nanoen.2023.108257	2023/2/1	MIB0095	Deeping insight of Mg(CF3SO3)2 and comprehensive modified electrolytewith ionic liquid enabling high-performance magnesium batteries	Nano Energy	Mg	Mo6S8	Mg(CF3SO3)2/AlCl3/MgCl2		0.05 C				86.3												
+10.1016/j.nanoen.2023.108257	2023/2/1	MIB0096	Deeping insight of Mg(CF3SO3)2 and comprehensive modified electrolytewith ionic liquid enabling high-performance magnesium batteries	Nano Energy	Mg	Mo6S8	Mg(CF3SO3)2/AlCl3/MgCl2		0.1 C 				74.5												
+10.1016/j.nanoen.2023.108257	2023/2/1	MIB0097	Deeping insight of Mg(CF3SO3)2 and comprehensive modified electrolytewith ionic liquid enabling high-performance magnesium batteries	Nano Energy	Mg	Mo6S8	Mg(CF3SO3)2/AlCl3/MgCl2		0.15 C				68.9												
+10.1016/j.nanoen.2023.108257	2023/2/1	MIB0098	Deeping insight of Mg(CF3SO3)2 and comprehensive modified electrolytewith ionic liquid enabling high-performance magnesium batteries	Nano Energy	Mg	Mo6S8	Mg(CF3SO3)2/AlCl3/MgCl2		0.2 C				66.7												
+10.1016/j.nanoen.2023.108257	2023/2/1	MIB0099	Deeping insight of Mg(CF3SO3)2 and comprehensive modified electrolytewith ionic liquid enabling high-performance magnesium batteries	Nano Energy	Mg	Mo6S8	Mg(CF3SO3)2/AlCl3/MgCl2		0.25 C				64.2												
+10.1016/j.nanoen.2023.108257	2023/2/1	MIB0100	Deeping insight of Mg(CF3SO3)2 and comprehensive modified electrolytewith ionic liquid enabling high-performance magnesium batteries	Nano Energy	Mg	Cu3Se2	Mg(CF3SO3)2/AlCl3/MgCl-PP14TFSI		200		131.7		100	131.7											
+10.1016/j.nanoen.2023.108257	2023/2/1	MIB0101	Deeping insight of Mg(CF3SO3)2 and comprehensive modified electrolytewith ionic liquid enabling high-performance magnesium batteries	Nano Energy	Mg	Cu3Se2	Mg(CF3SO3)2/AlCl3/MgCl-PP14TFSI		40		237.4														
+10.1016/j.nanoen.2023.108257	2023/2/1	MIB0102	Deeping insight of Mg(CF3SO3)2 and comprehensive modified electrolytewith ionic liquid enabling high-performance magnesium batteries	Nano Energy	Mg	Cu3Se2	Mg(CF3SO3)2/AlCl3/MgCl-PP14TFSI		100		212.4														
+10.1016/j.nanoen.2023.108257	2023/2/1	MIB0103	Deeping insight of Mg(CF3SO3)2 and comprehensive modified electrolytewith ionic liquid enabling high-performance magnesium batteries	Nano Energy	Mg	Cu3Se2	Mg(CF3SO3)2/AlCl3/MgCl-PP14TFSI		150		196.4														
+10.1016/j.nanoen.2023.108257	2023/2/1	MIB0104	Deeping insight of Mg(CF3SO3)2 and comprehensive modified electrolytewith ionic liquid enabling high-performance magnesium batteries	Nano Energy	Mg	Cu3Se2	Mg(CF3SO3)2/AlCl3/MgCl-PP14TFSI		200		182.6														
+10.1016/j.nanoen.2023.108257	2023/2/1	MIB0105	Deeping insight of Mg(CF3SO3)2 and comprehensive modified electrolytewith ionic liquid enabling high-performance magnesium batteries	Nano Energy	Mg	Cu3Se2	Mg(CF3SO3)2/AlCl3/MgCl-PP14TFSI		250		177.3														
+10.1016/j.nanoen.2023.108257	2023/2/1	MIB0106	Deeping insight of Mg(CF3SO3)2 and comprehensive modified electrolytewith ionic liquid enabling high-performance magnesium batteries	Nano Energy	Mg	Cu3Se2	Mg(CF3SO3)2/AlCl3/MgCl-PP14TFSI		300		176.3														
+10.1016/j.nanoen.2023.108257	2023/2/1	MIB0107	Deeping insight of Mg(CF3SO3)2 and comprehensive modified electrolytewith ionic liquid enabling high-performance magnesium batteries	Nano Energy	Mg	Cu3Se2	Mg(CF3SO3)2/AlCl3/MgCl-PP14TFSI		100				70	205.3											
+10.1021/acsnano.2c12392	2023/2/14	MIB0108	"Ultraporous, Ultrasmall MgMn2O4 Spinel Cathode for a RoomTemperature Magnesium
+Rechargeable Battery"	ACS NANO	Mg-Al-Zn	MgMn2O4(Á¢·½¼â¾§Ê¯£¼2.5nm)	Mg[B(HFIP)4]2/triglyme				270													ÐÜÒ°	»ÆÑÇ·É
+10.1016/j.cej.2023.141345 	2023/2/15	MIB0109	Lattice expanding by Te-substitution to boost electrochemical Mg storage of Cu7.2S4 nanotube cathode 	Chemical Engineering Journal	Mg	Cu7.2S4	Mg(HMDS)2/AlCl3/DME		100		322.1													ÐÜÒ°	»ÆÑÇ·É
+10.1016/j.cej.2023.141345 	2023/2/15	MIB0110	Lattice expanding by Te-substitution to boost electrochemical Mg storage of Cu7.2S4 nanotube cathode 	Chemical Engineering Journal	Mg	0.06Te-Cu7.2S4	Mg(HMDS)2/AlCl3/DME		100		370.7														
+10.1016/j.cej.2023.141345 	2023/2/15	MIB0111	Lattice expanding by Te-substitution to boost electrochemical Mg storage of Cu7.2S4 nanotube cathode 	Chemical Engineering Journal	Mg	0.1Te-Cu7.2S4	Mg(HMDS)2/AlCl3/DME		100		384.7														
+10.1016/j.cej.2023.141345 	2023/2/15	MIB0112	Lattice expanding by Te-substitution to boost electrochemical Mg storage of Cu7.2S4 nanotube cathode 	Chemical Engineering Journal	Mg	0.2Te-Cu7.2S4	Mg(HMDS)2/AlCl3/DME		100		478.1														
+10.1016/j.cej.2023.141345 	2023/2/15	MIB0113	Lattice expanding by Te-substitution to boost electrochemical Mg storage of Cu7.2S4 nanotube cathode 	Chemical Engineering Journal	Mg	Te-Cu7.2S4ÄÉÃ×¹Ü	Mg(HMDS)2/AlCl3/DME		100	322.1	354.1														
+10.1016/j.cej.2023.141345 	2023/2/15	MIB0114	Lattice expanding by Te-substitution to boost electrochemical Mg storage of Cu7.2S4 nanotube cathode 	Chemical Engineering Journal	Mg	Te-Cu7.2S4ÄÉÃ×¹Ü	Mg(HMDS)2/AlCl3/DME		200		324.5														
+10.1016/j.cej.2023.141345 	2023/2/15	MIB0115	Lattice expanding by Te-substitution to boost electrochemical Mg storage of Cu7.2S4 nanotube cathode 	Chemical Engineering Journal	Mg	Te-Cu7.2S4ÄÉÃ×¹Ü	Mg(HMDS)2/AlCl3/DME		300		279.7														
+10.1016/j.cej.2023.141345 	2023/2/15	MIB0116	Lattice expanding by Te-substitution to boost electrochemical Mg storage of Cu7.2S4 nanotube cathode 	Chemical Engineering Journal	Mg	Te-Cu7.2S4ÄÉÃ×¹Ü	Mg(HMDS)2/AlCl3/DME		500		210.6														
+10.1016/j.cej.2023.141345 	2023/2/15	MIB0117	Lattice expanding by Te-substitution to boost electrochemical Mg storage of Cu7.2S4 nanotube cathode 	Chemical Engineering Journal	Mg	Te-Cu7.2S4ÄÉÃ×¹Ü	Mg(HMDS)2/AlCl3/DME		1000		140.5														
+10.1016/j.cej.2023.141345 	2023/2/15	MIB0118	Lattice expanding by Te-substitution to boost electrochemical Mg storage of Cu7.2S4 nanotube cathode 	Chemical Engineering Journal	Mg	Te-Cu7.2S4ÄÉÃ×¹Ü	Mg(HMDS)2/AlCl3/DME		2000		85.1		2000												
+10.1002/smtd.202201598	2023/2/19	MIB0119	"Double-Transition-Metal MXene Films Promoting Deeply
+Rechargeable Magnesium Metal Batteries"	Small	Mg	Mo2Ti2C3	Mg(OTf)2																	ÐÜÒ°	»ÆÑÇ·É
+10.1002/adma.20220828	2023/3/9	MIB0120	Anion-Incorporated Mg-Ion Solvation Modulation Enables Fast Magnesium Storage Kinetics of Conversion-Type Cathode Materials	Advanced Materlals	Mg	CuSe	Mg[B(hfip)4]2/DME		100	170	357		100	300										»ÆÑÇ·É	ÐÜÒ°
+10.1002/adma.20220828	2023/3/9	MIB0121	Anion-Incorporated Mg-Ion Solvation Modulation Enables Fast Magnesium Storage Kinetics of Conversion-Type Cathode Materials	Advanced Materlals	Mg	CuSe	Mg[B(hfip)4]2/DME		200		304		1000												
+10.1002/adma.20220828	2023/3/9	MIB0122	Anion-Incorporated Mg-Ion Solvation Modulation Enables Fast Magnesium Storage Kinetics of Conversion-Type Cathode Materials	Advanced Materlals	Mg	CuSe	Mg[B(hfip)4]2/DME		500		277														
+10.1002/adma.20220828	2023/3/9	MIB0123	Anion-Incorporated Mg-Ion Solvation Modulation Enables Fast Magnesium Storage Kinetics of Conversion-Type Cathode Materials	Advanced Materlals	Mg	CuSe	Mg[B(hfip)4]2/DME		1000		246														
+10.1016/j.jma.2022.11.005	2023/4/4	MIB0124	Layered buserite Mg-Mn oxide cathode for aqueous rechargeable Mg-ion battery	Journal of Magnesium and Alloys	Mg	MMO-1	0.1 M MgCl2		50		169.3														
+10.1016/j.jma.2022.11.005	2023/4/4	MIB0125	Layered buserite Mg-Mn oxide cathode for aqueous rechargeable Mg-ion battery	Journal of Magnesium and Alloys	Mg	MMO-1	0.1 M MgCl2		1000		98.3														
+10.1016/j.jma.2022.11.005	2023/4/4	MIB0126	Layered buserite Mg-Mn oxide cathode for aqueous rechargeable Mg-ion battery	Journal of Magnesium and Alloys	Mg	MMO-1	0.5 M MgCl6		50		153.2														
+10.1016/j.jma.2022.11.005	2023/4/4	MIB0127	Layered buserite Mg-Mn oxide cathode for aqueous rechargeable Mg-ion battery	Journal of Magnesium and Alloys	Mg	MMO-1	5.8 M MgCl6		50		122.4														
+10.1016/j.jma.2022.11.005	2023/4/4	MIB0128	Layered buserite Mg-Mn oxide cathode for aqueous rechargeable Mg-ion battery	Journal of Magnesium and Alloys	Mg	MMO-2	0.1 M MgCl4		50		169.9														
+10.1016/j.jma.2022.11.005	2023/4/4	MIB0129	Layered buserite Mg-Mn oxide cathode for aqueous rechargeable Mg-ion battery	Journal of Magnesium and Alloys	Mg	MMO-2	0.1 M MgCl4		1000		74.4														
+10.1016/j.jma.2022.11.005	2023/4/4	MIB0130	Layered buserite Mg-Mn oxide cathode for aqueous rechargeable Mg-ion battery	Journal of Magnesium and Alloys	Mg	MMO-1//AC	0.5 M MgCl5		100		111														
+10.1016/j.jma.2022.11.005	2023/4/4	MIB0131	Layered buserite Mg-Mn oxide cathode for aqueous rechargeable Mg-ion battery	Journal of Magnesium and Alloys	Mg	MMO-1//AC	0.5 M MgCl5		1000		78		5000												
+10.1002/smll.202308886	2024/1/4	MIB0132	"Mitigating Interfacial Capacity Fading in Vanadium
+Pentoxide by Sacrificial Vanadium Sulfide Encapsulation for
+Rechargeable Mg-Ion Batteries"	Small	Mg	V2O5-VS2	MgCl2 + MgTFSI in DME		10	260	260													»ÆÑÇ·É	ÐÜÒ°
+10.1002/smll.202308886	2024/1/4	MIB0133	"Mitigating Interfacial Capacity Fading in Vanadium
+Pentoxide by Sacrificial Vanadium Sulfide Encapsulation for
+Rechargeable Mg-Ion Batteries"	Small	Mg	V2O5-VS2	MgCl2 + MgTFSI in DME		30		183		100	138											
+10.1002/smll.202308886	2024/1/4	MIB0134	"Mitigating Interfacial Capacity Fading in Vanadium
+Pentoxide by Sacrificial Vanadium Sulfide Encapsulation for
+Rechargeable Mg-Ion Batteries"	Small	Mg	V2O5	MgCl2 + MgTFSI in DME		10	220															
+10.1002/smll.202308886	2024/1/4	MIB0135	"Mitigating Interfacial Capacity Fading in Vanadium
+Pentoxide by Sacrificial Vanadium Sulfide Encapsulation for
+Rechargeable Mg-Ion Batteries"	Small	Mg	V2O5	MgCl2 + MgTFSI in DME		30				100	110											
+10.1002/adfm.202314146	2024/1/4	MIB0136	"Asymmetric SO3CF3
+?-Grafted Boron-Center Anion Enables
+Boron-Containing Interphase for High-Performance
+Rechargeable Mg Batteries"	Early View	Mg	Mo6S8	MBTO		1 C		61.5		600		90.2				0.1	409				»ÆÑÇ·É	ÐÜÒ°
+10.1002/adfm.202314146	2024/1/4	MIB0137	"Asymmetric SO3CF3
+?-Grafted Boron-Center Anion Enables
+Boron-Containing Interphase for High-Performance
+Rechargeable Mg Batteries"	Early View	Mg	Mo6S8	MBTO		5 C		43								1	208				»ÆÑÇ·É	ÐÜÒ°
+10.1016/j.solidstatesciences.2024.107445	2024/1/17	MIB0138	"Synergistic effect of V3O7/VO2 film electrodes as high-performance cathode 
+materials for magnesium-ion batteries"	Solid State Sciences	Mg	VO-350	1.5 M Mg(ClO4)2/ PC		100 mA cm-2 	190.7			100	79.4										»ÆÑÇ·É	ÐÜÒ°
+10.1016/j.solidstatesciences.2024.107445	2024/1/17	MIB0139	"Synergistic effect of V3O7/VO2 film electrodes as high-performance cathode 
+materials for magnesium-ion batteries"	Solid State Sciences	Mg	VO-400	2.5 M Mg(ClO4)2/ PC		101 mA cm-2 	111.5	156.7		100	156.7											
+10.1016/j.solidstatesciences.2024.107445	2024/1/17	MIB0140	"Synergistic effect of V3O7/VO2 film electrodes as high-performance cathode 
+materials for magnesium-ion batteries"	Solid State Sciences	Mg	VO-400	2.5 M Mg(ClO4)2/ PC		0.3 C		213.9														
+10.1016/j.solidstatesciences.2024.107445	2024/1/17	MIB0141	"Synergistic effect of V3O7/VO2 film electrodes as high-performance cathode 
+materials for magnesium-ion batteries"	Solid State Sciences	Mg	VO-400	2.5 M Mg(ClO4)2/ PC		0.5 C		202.2														
+10.1016/j.solidstatesciences.2024.107445	2024/1/17	MIB0142	"Synergistic effect of V3O7/VO2 film electrodes as high-performance cathode 
+materials for magnesium-ion batteries"	Solid State Sciences	Mg	VO-400	2.5 M Mg(ClO4)2/ PC		1 C 		138.6														
+10.1016/j.solidstatesciences.2024.107445	2024/1/17	MIB0143	"Synergistic effect of V3O7/VO2 film electrodes as high-performance cathode 
+materials for magnesium-ion batteries"	Solid State Sciences	Mg	VO-400	2.5 M Mg(ClO4)2/ PC		4 C		73.7														
+10.1016/j.solidstatesciences.2024.107445	2024/1/17	MIB0144	"Synergistic effect of V3O7/VO2 film electrodes as high-performance cathode 
+materials for magnesium-ion batteries"	Solid State Sciences	Mg	VO-400	2.5 M Mg(ClO4)2/ PC		6 C		60.2														
+"10.1016/j.ensm.2024.103212 
+"	2024/1/28	MIB0145	"Ca2+ pre-intercalated bilayered vanadium oxide for high-performance 
+aqueous Mg-ion batteries"	Energy Storage Materials	Mg	CaVOnH	0.8 m Mg(TFSI) 2-85%PEG - 15%H2O(¾ÛÒÒ¶þ´¼£¬PEG)		50		273													ÐÜÒ°	»ÆÑÇ·É
+doi.org/10.1002/inf2.12517	2024/1/30	MIB0146	"Crystal reconstruction of V2O3/carbon heterointerfaces
+via anodic hydration for ultrafast and reversible
+Mg-ion battery cathodes"	InfoMat	Mg	V2O3@C	0.3 M Mg(TFSI)2/ACN(H2O)		500		354.8	1.0-1.0												ÐÜÒ°	»ÆÑÇ·É
+doi.org/10.1002/inf2.12517	2024/1/30	MIB0147	"Crystal reconstruction of V2O3/carbon heterointerfaces
+via anodic hydration for ultrafast and reversible
+Mg-ion battery cathodes"	InfoMat	Mg	V2O3@C	0.3 M Mg(TFSI)2/ACN(H2O)		5000		292.7	1.0-1.0													
+doi.org/10.1002/inf2.12517	2024/1/30	MIB0148	"Crystal reconstruction of V2O3/carbon heterointerfaces
+via anodic hydration for ultrafast and reversible
+Mg-ion battery cathodes"	InfoMat	Mg	V2O3@C	0.3 M Mg(TFSI)2/ACN(H2O)		20000		208	1.0-1.0													
+doi.org/10.1002/inf2.12517	2024/1/30	MIB0149	"Crystal reconstruction of V2O3/carbon heterointerfaces
+via anodic hydration for ultrafast and reversible
+Mg-ion battery cathodes"	InfoMat	Mg	V2O3@C	0.3 M Mg(TFSI)2/ACN(H2O)		50000		130.4	1.0-1.0													
+doi.org/10.1002/inf2.12517	2024/1/30	MIB0150	"Crystal reconstruction of V2O3/carbon heterointerfaces
+via anodic hydration for ultrafast and reversible
+Mg-ion battery cathodes"	InfoMat	Mg	V2O3@C	0.3 M Mg(TFSI)2/ACN(H2O)		200		213.9	1.0-0.5													
+doi.org/10.1002/inf2.12517	2024/1/30	MIB0151	"Crystal reconstruction of V2O3/carbon heterointerfaces
+via anodic hydration for ultrafast and reversible
+Mg-ion battery cathodes"	InfoMat	Mg	V2O3@C	0.3 M Mg(TFSI)2/ACN(H2O)		500		152.2	1.0-0.5													
+doi.org/10.1002/inf2.12517	2024/1/30	MIB0152	"Crystal reconstruction of V2O3/carbon heterointerfaces
+via anodic hydration for ultrafast and reversible
+Mg-ion battery cathodes"	InfoMat	Mg	V2O3@C	0.3 M Mg(TFSI)2/ACN(H2O)		2000		59.3	1.0-0.5													
+doi.org/10.1002/inf2.12517	2024/1/30	MIB0153	"Crystal reconstruction of V2O3/carbon heterointerfaces
+via anodic hydration for ultrafast and reversible
+Mg-ion battery cathodes"	InfoMat	Mg	V2O3@C	0.3 M Mg(TFSI)2/ACN(H2O)		200		381														
+doi.org/10.1002/inf2.12517	2024/1/30	MIB0154	"Crystal reconstruction of V2O3/carbon heterointerfaces
+via anodic hydration for ultrafast and reversible
+Mg-ion battery cathodes"	InfoMat	Mg	V2O3@C	0.3 M Mg(TFSI)2/ACN(H2O)		500		290.1		1000	173.1	60										
+doi.org/10.1002/inf2.12517	2024/1/30	MIB0155	"Crystal reconstruction of V2O3/carbon heterointerfaces
+via anodic hydration for ultrafast and reversible
+Mg-ion battery cathodes"	InfoMat	Mg	bulk-V2O3/AC	0.3 M Mg(TFSI)2/ACN(H2O)		500				1000	150	57										
+doi.org/10.1002/inf2.12517	2024/1/30	MIB0156	"Crystal reconstruction of V2O3/carbon heterointerfaces
+via anodic hydration for ultrafast and reversible
+Mg-ion battery cathodes"	InfoMat	Mg	bulk-V2O3/AC	0.3 M Mg(TFSI)2/ACN(H2O)		200		203.2														
+doi.org/10.1002/inf2.12517	2024/1/30	MIB0157	"Crystal reconstruction of V2O3/carbon heterointerfaces
+via anodic hydration for ultrafast and reversible
+Mg-ion battery cathodes"	InfoMat	Mg	bulk-V2O5/AC	0.3 M Mg(TFSI)2/ACN(H2O)		200		54.9														
+doi.org/10.1016/j.mtphys.2024.101361	2024/2/6	MIB0158	"The tellurium-induced CoSe polyhedral porous nano-structured materials 
+as high-performance cathodes for rechargeable magnesium batteries "	Materials Today Physics 	Mg	CoSe/Te	APC		100				100	180										ÐÜÒ°	»ÆÑÇ·É
+doi.org/10.1016/j.mtphys.2024.101361	2024/2/6	MIB0159	"The tellurium-induced CoSe polyhedral porous nano-structured materials 
+as high-performance cathodes for rechargeable magnesium batteries "	Materials Today Physics 	Mg	CoSe/Te	APC		200				600	150.6	83.7										
+doi.org/10.1016/j.mtphys.2024.101361	2024/2/6	MIB0160	"The tellurium-induced CoSe polyhedral porous nano-structured materials 
+as high-performance cathodes for rechargeable magnesium batteries "	Materials Today Physics 	Mg	CoSe/Te	APC		2000		50														
+doi.org/10.1016/j.mtphys.2024.101361	2024/2/6	MIB0161	"The tellurium-induced CoSe polyhedral porous nano-structured materials 
+as high-performance cathodes for rechargeable magnesium batteries "	Materials Today Physics 	Mg	CoSe	APC		2000		15														
+10.1002/smtd.202400004	2024/2/7	MIB0162	"Pillar-Structured Ti3C2Tx MXene with Engineered Interlayer
+Spacing for High-Performance Magnesium Batteries"	Small	Mg	Ti3C2Tx£¨ML-MXene£©	APC		50	235		0.05-2	100	190	95									ÐÜÒ°	»ÆÑÇ·É
+10.1002/smtd.202400004	2024/2/7	MIB0163	"Pillar-Structured Ti3C2Tx MXene with Engineered Interlayer
+Spacing for High-Performance Magnesium Batteries"	Small	Mg	Ti3C2Tx£¨ML-MXene£©	APC		20	213															
+10.1002/smtd.202400004	2024/2/7	MIB0164	"Pillar-Structured Ti3C2Tx MXene with Engineered Interlayer
+Spacing for High-Performance Magnesium Batteries"	Small	Mg	Ti3C2Tx£¨DL-MXene£©	APC		50	70													APC		
+10.1002/smtd.202400004	2024/2/7	MIB0165	"Pillar-Structured Ti3C2Tx MXene with Engineered Interlayer
+Spacing for High-Performance Magnesium Batteries"	Small	Mg	Ti3C2Tx£¨DL-MXene£©	APC		20	80															
+10.1021/acssuschemeng.3c06270	2024/2/20	MIB0166	"Efficient and Stable Magnesium Plating/Stripping in High-Capacity
+Novel Mg//Ni0.6Co0.4Se2 Batteries Enabled by Interfacial Chemistry
+Modulation"	ACS Sustainable Chemistry & Engineering	Mg	Ni0.6Co0.4Se2	0.35 M Mg(HMDS)2-2AlCl3-I2/G2		100	186	180		100	120										»ÆÑÇ·É	ÐÜÒ°
+10.1021/acssuschemeng.3c06270	2024/2/20	MIB0167	"Efficient and Stable Magnesium Plating/Stripping in High-Capacity
+Novel Mg//Ni0.6Co0.4Se3 Batteries Enabled by Interfacial Chemistry
+Modulation"	ACS Sustainable Chemistry & Engineering	Mg	Ni0.6Co0.4Se2	0.35 M Mg(HMDS)2-2AlCl3-I2/G2		25		182														
+10.1021/acssuschemeng.3c06270	2024/2/20	MIB0168	"Efficient and Stable Magnesium Plating/Stripping in High-Capacity
+Novel Mg//Ni0.6Co0.4Se4 Batteries Enabled by Interfacial Chemistry
+Modulation"	ACS Sustainable Chemistry & Engineering	Mg	Ni0.6Co0.4Se2	0.35 M Mg(HMDS)2-2AlCl3-I2/G2		50		160														
+10.1021/acssuschemeng.3c06270	2024/2/20	MIB0169	"Efficient and Stable Magnesium Plating/Stripping in High-Capacity
+Novel Mg//Ni0.6Co0.4Se5 Batteries Enabled by Interfacial Chemistry
+Modulation"	ACS Sustainable Chemistry & Engineering	Mg	Ni0.6Co0.4Se2	0.35 M Mg(HMDS)2-2AlCl3-I2/G2		100		126														
+10.1021/acssuschemeng.3c06270	2024/2/20	MIB0170	"Efficient and Stable Magnesium Plating/Stripping in High-Capacity
+Novel Mg//Ni0.6Co0.4Se6 Batteries Enabled by Interfacial Chemistry
+Modulation"	ACS Sustainable Chemistry & Engineering	Mg	Ni0.6Co0.4Se2	0.35 M Mg(HMDS)2-2AlCl3-I2/G2		200		88														
+10.1021/acssuschemeng.3c06270	2024/2/20	MIB0171	"Efficient and Stable Magnesium Plating/Stripping in High-Capacity
+Novel Mg//Ni0.6Co0.4Se7 Batteries Enabled by Interfacial Chemistry
+Modulation"	ACS Sustainable Chemistry & Engineering	Mg	Ni0.6Co0.4Se2	0.35 M Mg(HMDS)2-2AlCl3-I2/G2		500		71														
+10.1021/acssuschemeng.3c06270	2024/2/20	MIB0172	"Efficient and Stable Magnesium Plating/Stripping in High-Capacity
+Novel Mg//Ni0.6Co0.4Se8 Batteries Enabled by Interfacial Chemistry
+Modulation"	ACS Sustainable Chemistry & Engineering	Mg	Ni0.6Co0.4Se2	0.35 M Mg(HMDS)2-2AlCl3-I2/G2		1000		49														
+10.1021/acssuschemeng.3c06270	2024/2/20	MIB0173	"Efficient and Stable Magnesium Plating/Stripping in High-Capacity
+Novel Mg//Ni0.6Co0.4Se9 Batteries Enabled by Interfacial Chemistry
+Modulation"	ACS Sustainable Chemistry & Engineering	Mg	Ni0.6Co0.4Se2	0.35 M Mg(HMDS)2-2AlCl3-I2/G2		2000		30														
+10.1021/acssuschemeng.3c06270	2024/2/20	MIB0174	"Efficient and Stable Magnesium Plating/Stripping in High-Capacity
+Novel Mg//Ni0.6Co0.4Se10 Batteries Enabled by Interfacial Chemistry
+Modulation"	ACS Sustainable Chemistry & Engineering	Mg	Ni0.6Co0.4Se2	0.25 M APC/THF		100	44			10	0											
+10.1002/smll.202311587	2024/2/22	MIB0175	"Catalyzing Desolvation at Cathode-Electrolyte Interface
+Enabling High-Performance Magnesium-Ion Batteries"	Small	Mg	V2O5/MQDs	0.5 M Mg[N(SO2CF3)2]2- Mg(TFSI)2/DME		50		319.5		200	200										ÐÜÒ°	»ÆÑÇ·É
+10.1002/smll.202311587	2024/2/22	MIB0176	"Catalyzing Desolvation at Cathode-Electrolyte Interface
+Enabling High-Performance Magnesium-Ion Batteries"	Small	Mg	V2O5/MQDs	0.5 M Mg[N(SO2CF3)2]2- Mg(TFSI)2/DME		25		303														
+10.1002/smll.202311587	2024/2/22	MIB0177	"Catalyzing Desolvation at Cathode-Electrolyte Interface
+Enabling High-Performance Magnesium-Ion Batteries"	Small	Mg	V2O5/MQDs	0.5 M Mg[N(SO2CF3)2]2- Mg(TFSI)2/DME		50		249.2														
+10.1002/smll.202311587	2024/2/22	MIB0178	"Catalyzing Desolvation at Cathode-Electrolyte Interface
+Enabling High-Performance Magnesium-Ion Batteries"	Small	Mg	V2O5/MQDs	0.5 M Mg[N(SO2CF3)2]2- Mg(TFSI)2/DME		100		211.2														
+10.1002/smll.202311587	2024/2/22	MIB0179	"Catalyzing Desolvation at Cathode-Electrolyte Interface
+Enabling High-Performance Magnesium-Ion Batteries"	Small	Mg	V2O5/MQDs	0.5 M Mg[N(SO2CF3)2]2- Mg(TFSI)2/DME		200		176.5														
+10.1002/smll.202311587	2024/2/22	MIB0180	"Catalyzing Desolvation at Cathode-Electrolyte Interface
+Enabling High-Performance Magnesium-Ion Batteries"	Small	Mg	V2O5/MQDs	0.5 M Mg[N(SO2CF3)2]2- Mg(TFSI)2/DME		300		160.9														
+10.1002/smll.202311587	2024/2/22	MIB0181	"Catalyzing Desolvation at Cathode-Electrolyte Interface
+Enabling High-Performance Magnesium-Ion Batteries"	Small	Mg	V2O5/MQDs	0.5 M Mg[N(SO2CF3)2]2- Mg(TFSI)2/DME		500		143.8														
+10.1002/smll.202311587	2024/2/22	MIB0182	"Catalyzing Desolvation at Cathode-Electrolyte Interface
+Enabling High-Performance Magnesium-Ion Batteries"	Small	Mg	V2O5/MQDs	0.5 M Mg[N(SO2CF3)2]2- Mg(TFSI)2/DME		1000		118.8		1000	112.9	77.1										
+10.1002/smll.202311587	2024/2/22	MIB0183	"Catalyzing Desolvation at Cathode-Electrolyte Interface
+Enabling High-Performance Magnesium-Ion Batteries"	Small	Mg	V2O5/MQDs	0.5 M Mg[N(SO2CF3)2]2- Mg(TFSI)2/DME		2000				15000	70											
+https://doi.org/10.1002/anie.202401818	2024/3/11	MIB0184	"Unlocking Four-electron Conversion in Tellurium Cathodes for
+Advanced Magnesium-based Dual-ion Batteries"	Angewandte Chemie International Edition	Mg	Te	0.5 M Mg(TFSI)2/MACCµç½âÒº		400	543	543													»ÆÑÇ·É	ÐÜÒ°
+https://doi.org/10.1002/anie.202401818	2024/3/11	MIB0185	"Unlocking Four-electron Conversion in Tellurium Cathodes for
+Advanced Magnesium-based Dual-ion Batteries"	Angewandte Chemie International Edition	Mg	Te	0.5 M Mg(TFSI)2/MACCµç½âÒº		2000		356														
+https://doi.org/10.1002/anie.202401818	2024/3/11	MIB0186	"Unlocking Four-electron Conversion in Tellurium Cathodes for
+Advanced Magnesium-based Dual-ion Batteries"	Angewandte Chemie International Edition	Mg	Te	0.5 M Mg(TFSI)2/MACCµç½âÒº		1000				100	308											
+https://doi.org/10.1002/anie.202401818	2024/3/11	MIB0187	"Unlocking Four-electron Conversion in Tellurium Cathodes for
+Advanced Magnesium-based Dual-ion Batteries"	Angewandte Chemie International Edition	Mg	Te	0.5 M Mg(TFSI)2/MACCµç½âÒº		2000				100	280											
+https://doi.org/10.1002/batt.202400032	2024/3/19	MIB0188	"Triiodide Anion as a Magnesium-ion Transporter for Low
+Overpotential Battery Cycling in Iodine-Containing Mg(TFSI)2
+Electrolyte"	ACS Applied Materials & Interfaces	Mg	MgI2	Mg(TFSI)2	SEIÄ¤																»ÆÑÇ·É	ÐÜÒ°
+https://doi.org/10.1039/D4TA00639A	2024/3/27	MIB0189	Copper selenide/amino hyperbranched polymer as an 2 organic/inorganic hybrid composite cathode for 3 rechargeable magnesium batteries	Journal of  Materials Chemistry A	Mg	CuSe-AHP	Mg(TFSI)2/DME-MgCl2		100		227						50	172.3						»ÆÑÇ·É	ÐÜÒ°
+https://doi.org/10.1039/D4TA00639A	2024/3/27	MIB0190	Copper selenide/amino hyperbranched polymer as an 2 organic/inorganic hybrid composite cathode for 4 rechargeable magnesium batteries	Journal of  Materials Chemistry A	Mg	CuSe-AHP	Mg(TFSI)2/DME-MgCl2		1000		87.5														
+https://doi.org/10.1039/D4TA00639A	2024/3/27	MIB0191	Copper selenide/amino hyperbranched polymer as an 2 organic/inorganic hybrid composite cathode for 5 rechargeable magnesium batteries	Journal of  Materials Chemistry A	Mg	CuSe-AHP	Mg(TFSI)2/DME-MgCl2		200		121		200	121	75.4										
+https://doi.org/10.1039/D4TA00639A	2024/3/27	MIB0192	Copper selenide/amino hyperbranched polymer as an 2 organic/inorganic hybrid composite cathode for 6 rechargeable magnesium batteries	Journal of  Materials Chemistry A	Mg	CuSe-AHP	Mg(TFSI)2/DME-MgCl2		500				400	105	75										
+https://doi.org/10.1039/D4TA00639A	2024/3/27	MIB0193	Copper selenide/amino hyperbranched polymer as an 2 organic/inorganic hybrid composite cathode for 7 rechargeable magnesium batteries	Journal of  Materials Chemistry A	Mg	CuSe	Mg(TFSI)2/DME-MgCl3		100		211						50	284.2							
+https://doi.org/10.1039/D4TA00639A	2024/3/27	MIB0194	Copper selenide/amino hyperbranched polymer as an 2 organic/inorganic hybrid composite cathode for 8 rechargeable magnesium batteries	Journal of  Materials Chemistry A	Mg	CuSe	Mg(TFSI)2/DME-MgCl3		200				200	49	14.33										
+https://doi.org/10.1002/batt.202400032	2024/3/27	MIB0195	"Tin-containing Silicon Oxycarbonitride Ceramic Nanocomposites
+as Stable Anode for Magnesium Ion Batteries"	Batteries & Supercaps	Sn(0.422)/SiOCN	CuSe	PhMgcl/THF-AlCl3		0.5	489.9														»ÆÑÇ·É	ÐÜÒ°
+https://doi.org/10.1002/batt.202400032	2024/3/27	MIB0196	"Tin-containing Silicon Oxycarbonitride Ceramic Nanocomposites
+as Stable Anode for Magnesium Ion Batteries"	Batteries & Supercaps	Sn(0.423)/SiOCN	CuSe	PhMgcl/THF-AlCl3		50	172.9															
+https://doi.org/10.1002/batt.202400032	2024/3/27	MIB0197	"Tin-containing Silicon Oxycarbonitride Ceramic Nanocomposites
+as Stable Anode for Magnesium Ion Batteries"	Batteries & Supercaps	Sn(0.424)/SiOCN	CuSe	PhMgcl/THF-AlCl3		500	136.6															
+https://doi.org/10.1002/batt.202400032	2024/3/27	MIB0198	"Tin-containing Silicon Oxycarbonitride Ceramic Nanocomposites
+as Stable Anode for Magnesium Ion Batteries"	Batteries & Supercaps	Sn(0.338)/SiOCN	CuSe	PhMgcl/THF-AlCl4		500				100	101.8	76.5										
+10.1016/j.apsusc.2024.159995	2024/3/27	MIB0199	High-rate aqueous magnesium ion battery enabled by Li/Mg hybrid	Applied Surface Science	Mg	MnO2/GO	 Mg(TFSI)2/LiTFSI		100	259.2														ÐÜÒ°	»ÆÑÇ·É
+10.1016/j.apsusc.2024.159995	2024/3/27	MIB0200	High-rate aqueous magnesium ion battery enabled by Li/Mg hybrid	Applied Surface Science	Mg	MnO2/GO	 Mg(TFSI)2/LiTFSI		200	219.6															
+10.1016/j.apsusc.2024.159995	2024/3/27	MIB0201	High-rate aqueous magnesium ion battery enabled by Li/Mg hybrid	Applied Surface Science	Mg	MnO2/GO	 Mg(TFSI)2/LiTFSI		500	208.5															
+10.1016/j.apsusc.2024.159995	2024/3/27	MIB0202	High-rate aqueous magnesium ion battery enabled by Li/Mg hybrid	Applied Surface Science	Mg	MnO2/GO	 Mg(TFSI)2/LiTFSI		1000	200.8															
+10.1016/j.apsusc.2024.159995	2024/3/27	MIB0203	High-rate aqueous magnesium ion battery enabled by Li/Mg hybrid	Applied Surface Science	Mg	MnO2/GO	 Mg(TFSI)2/LiTFSI		2000	187.1															
+10.1002/smll.202400903	2024/4/15	MIB0204	Amorphous Cobalt Polyselenides with Hyperbranched Polymer Additive as High©\Capacity Magnesium Storage Cathode Materials Through Cationic and Anionic Co©\Redox Mechanism	small	Mg	CoSe2.7	0.5MMg(TFSI)2? and 1M MgCl2? in DME 		50		246.6													ÐÜÒ°	»ÆÑÇ·É
+10.1002/smll.202400903	2024/4/15	MIB0205	Amorphous Cobalt Polyselenides with Hyperbranched Polymer Additive as High©\Capacity Magnesium Storage Cathode Materials Through Cationic and Anionic Co©\Redox Mechanism	small	Mg	CoSe2.7	0.5MMg(TFSI)2? and 1M MgCl2? in DME 		2000		94														
+10.1002/smll.202400903	2024/4/15	MIB0206	Amorphous Cobalt Polyselenides with Hyperbranched Polymer Additive as High©\Capacity Magnesium Storage Cathode Materials Through Cationic and Anionic Co©\Redox Mechanism	small	Mg	CoSe2.7	0.5MMg(TFSI)2? and 1M MgCl2? in DME 		500	130			300		68.6										
+10.1007/s12274-024-6596-3	2024/4/30	MIB0207	"Highly cycle-stable VOPO4-based cathodes for magnesium ion
+batteries: Insight into the role of interlayer engineering in batteries
+performance"	Nano Research	Mg	VPO-1	Mg(TFSI)2?in DME		100				100											»ÆÑÇ·É	ÐÜÒ°
+10.1007/s12274-024-6596-3	2024/4/30	MIB0208	"Highly cycle-stable VOPO4-based cathodes for magnesium ion
+batteries: Insight into the role of interlayer engineering in batteries
+performance"	Nano Research	Mg	VPO-2	Mg(TFSI)2?in DME		100		176.7		100		89.5										
+10.1007/s12274-024-6596-3	2024/4/30	MIB0209	"Highly cycle-stable VOPO4-based cathodes for magnesium ion
+batteries: Insight into the role of interlayer engineering in batteries
+performance"	Nano Research	Mg	VPO-3	Mg(TFSI)2?in DME		100		217.6	1.0V 2.0V	100		94.8										
+10.1007/s12274-024-6596-3	2024/4/30	MIB0210	"Highly cycle-stable VOPO4-based cathodes for magnesium ion
+batteries: Insight into the role of interlayer engineering in batteries
+performance"	Nano Research	Mg	VPO-3	Mg(TFSI)2?in DME						500	200											
+10.1007/s12274-024-6596-3	2024/4/30	MIB0211	"Highly cycle-stable VOPO4-based cathodes for magnesium ion
+batteries: Insight into the role of interlayer engineering in batteries
+performance"	Nano Research	Mg	VPO-3	Mg(TFSI)2?in DME						800	191.3											
+10.1007/s12274-024-6596-3	2024/4/30	MIB0212	"Highly cycle-stable VOPO4-based cathodes for magnesium ion
+batteries: Insight into the role of interlayer engineering in batteries
+performance"	Nano Research	Mg	VPO-3	Mg(TFSI)2?in DME		200		188.8														
+10.1007/s12274-024-6596-3	2024/4/30	MIB0213	"Highly cycle-stable VOPO4-based cathodes for magnesium ion
+batteries: Insight into the role of interlayer engineering in batteries
+performance"	Nano Research	Mg	VPO-3	Mg(TFSI)2?in DME		300		170.7														
+10.1007/s12274-024-6596-3	2024/4/30	MIB0214	"Highly cycle-stable VOPO4-based cathodes for magnesium ion
+batteries: Insight into the role of interlayer engineering in batteries
+performance"	Nano Research	Mg	VPO-3	Mg(TFSI)2?in DME		500		153.4														
+10.1007/s12274-024-6596-3	2024/4/30	MIB0215	"Highly cycle-stable VOPO4-based cathodes for magnesium ion
+batteries: Insight into the role of interlayer engineering in batteries
+performance"	Nano Research	Mg	VPO-3	Mg(TFSI)2?in DME		1000		120.6														
+10.1007/s12274-024-6596-3	2024/4/30	MIB0216	"Highly cycle-stable VOPO4-based cathodes for magnesium ion
+batteries: Insight into the role of interlayer engineering in batteries
+performance"	Nano Research	Mg	VPO-3	Mg(TFSI)2?in DME																		
+10.1007/s12274-024-6596-3	2024/4/30	MIB0217	"Highly cycle-stable VOPO4-based cathodes for magnesium ion
+batteries: Insight into the role of interlayer engineering in batteries
+performance"	Nano Research	Mg	VPO-3	Mg(TFSI)2?in DME																		
+10.1007/s12274-024-6596-3	2024/4/30	MIB0218	"Highly cycle-stable VOPO4-based cathodes for magnesium ion
+batteries: Insight into the role of interlayer engineering in batteries
+performance"	Nano Research	Mg	VPO-4	Mg(TFSI)2?in DME		100		233.1	1.0V 2.0V	100		70.1										
+10.1016/j.cej.2024.152569	2024/5/26	MIB0219	"Constructing Cu9S5@CuSe heterostructures under microwave irradiation 
+for rechargeable magnesium batteries "	Chemical Engineering Journal 	Mg	Cu9S5@CuSe	R-PhOMgCl2/AlCl3/THF		50		240													»ÆÑÇ·É	ÐÜÒ°
+10.1016/j.cej.2024.152569	2024/5/26	MIB0220	"Constructing Cu9S5@CuSe heterostructures under microwave irradiation 
+for rechargeable magnesium batteries "	Chemical Engineering Journal 	Mg	Cu9S5@CuSe	R-PhOMgCl2/AlCl3/THF		500				1000	94.3											
+10.1016/j.cej.2024.152569	2024/5/26	MIB0221	"Constructing Cu9S5@CuSe heterostructures under microwave irradiation 
+for rechargeable magnesium batteries "	Chemical Engineering Journal 	Mg	Cu9S5@CuSe	R-PhOMgCl2/AlCl3/THF		100	98			100	504											
+10.1016/j.cej.2024.152569	2024/5/26	MIB0222	"Constructing Cu9S5@CuSe heterostructures under microwave irradiation 
+for rechargeable magnesium batteries "	Chemical Engineering Journal 	Mg	Cu9S5@CuSe	R-PhOMgCl2/AlCl3/THF		50	199.9															
+10.1016/j.cej.2024.152569	2024/5/26	MIB0223	"Constructing Cu9S5@CuSe heterostructures under microwave irradiation 
+for rechargeable magnesium batteries "	Chemical Engineering Journal 	Mg	Cu9S5@CuSe	R-PhOMgCl2/AlCl3/THF		100	103.3															
+10.1016/j.cej.2024.152569	2024/5/26	MIB0224	"Constructing Cu9S5@CuSe heterostructures under microwave irradiation 
+for rechargeable magnesium batteries "	Chemical Engineering Journal 	Mg	Cu9S5@CuSe	R-PhOMgCl2/AlCl3/THF		200	67.7															
+10.1016/j.cej.2024.152569	2024/5/26	MIB0225	"Constructing Cu9S5@CuSe heterostructures under microwave irradiation 
+for rechargeable magnesium batteries "	Chemical Engineering Journal 	Mg	Cu9S5@CuSe	R-PhOMgCl2/AlCl3/THF		300	48.3															
+10.1016/j.cej.2024.152569	2024/5/26	MIB0226	"Constructing Cu9S5@CuSe heterostructures under microwave irradiation 
+for rechargeable magnesium batteries "	Chemical Engineering Journal 	Mg	Cu9S5@CuSe	R-PhOMgCl2/AlCl3/THF		500	30.4															
+10.1016/j.ensm.2024.103539	2024/6/5	MIB0227	"Initiating cationic-anionic chemistry with stepwise surface-to-inner 
+conversion in copper selenide superstructures for high-energy rechargeable 
+magnesium batteries "	Energy Storage Materials	Mg	Cu2-xSe	R-PhOMgCl2/AlCl3/THF		100		385.4													»ÆÑÇ·É	ÐÜÒ°
+10.1016/j.ensm.2024.103539	2024/6/5	MIB0228	"Initiating cationic-anionic chemistry with stepwise surface-to-inner 
+conversion in copper selenide superstructures for high-energy rechargeable 
+magnesium batteries "	Energy Storage Materials	Mg	Cu2-xSe	R-PhOMgCl2/AlCl3/THF		1000				700												
+10.1016/j.ensm.2024.103539	2024/6/5	MIB0229	"Initiating cationic-anionic chemistry with stepwise surface-to-inner 
+conversion in copper selenide superstructures for high-energy rechargeable 
+magnesium batteries "	Energy Storage Materials	Mg	Cu2-xSe	R-PhOMgCl2/AlCl3/THF		5000				3000												
+10.1021/acs.energyfuels.4c01979	2024/6/11	MIB0230	Insoluble Polyquinonyl Sulfide as High-Capacity Cathode Material for Magnesium Battery	Photonics for Energy	Mg	PPTS	0.3M Mg[B(hfip)4]2/DME		100		241													ÐÜÒ°	»ÆÑÇ·É
+10.1021/acs.energyfuels.4c01979	2024/6/11	MIB0231	Insoluble Polyquinonyl Sulfide as High-Capacity Cathode Material for Magnesium Battery	Photonics for Energy	Mg	PPTS	0.3M Mg[B(hfip)4]2/DME		2000		131														
+10.1021/acs.energyfuels.4c01979	2024/6/11	MIB0232	Insoluble Polyquinonyl Sulfide as High-Capacity Cathode Material for Magnesium Battery	Photonics for Energy	Mg	PPTS	0.3M Mg[B(hfip)4]2/DME		200	205															
+10.1021/acs.energyfuels.4c01979	2024/6/11	MIB0233	Insoluble Polyquinonyl Sulfide as High-Capacity Cathode Material for Magnesium Battery	Photonics for Energy	Mg	PPTS	0.3M Mg[B(hfip)4]2/DME		1000	167															
+10.1021/acs.energyfuels.4c01979	2024/6/11	MIB0234	Insoluble Polyquinonyl Sulfide as High-Capacity Cathode Material for Magnesium Battery	Photonics for Energy	Mg	PT	0.3M Mg[B(hfip)4]2/DME		100	163															
+10.1021/acs.energyfuels.4c01979	2024/6/11	MIB0235	Insoluble Polyquinonyl Sulfide as High-Capacity Cathode Material for Magnesium Battery	Photonics for Energy	Mg	PT	0.3M Mg[B(hfip)4]2/DME		200	113															
+10.1021/acs.energyfuels.4c01979	2024/6/11	MIB0236	Insoluble Polyquinonyl Sulfide as High-Capacity Cathode Material for Magnesium Battery	Photonics for Energy	Mg	PT	0.3M Mg[B(hfip)4]2/DME		1000	58															
+10.1021/acs.energyfuels.4c01979	2024/6/11	MIB0237	Insoluble Polyquinonyl Sulfide as High-Capacity Cathode Material for Magnesium Battery	Photonics for Energy	Mg	PT	0.3M Mg[B(hfip)4]2/DME		2000	42															
+10.1021/acsaem.4c00937	2024/7/2	MIB0238	"Interlayer Regulatory Engineering of NiO2 by Introducing H+ for
+High-Rate Mg Ion Storage"	ACS Applied Energy Materials 	Mg	Mg																		»ÆÑÇ·É	ÐÜÒ°
+10.1016/j.jallcom.2024.176518	2024/9/16	MIB0239	"An ultrafast, stable and highly reversible nickel magnesium vanadate cathode for magnesium ion batteries"	Journal of Alloys and Compounds	Mg	NiMg2(VO4)2	1 M Mg(ClO4)2ÔÚÒÒëæ		200		185													ÐÜÒ°	»ÆÑÇ·É
+10.1016/j.jallcom.2024.176518	2024/9/16	MIB0240	"An ultrafast, stable and highly reversible nickel magnesium vanadate cathode for magnesium ion batteries"	Journal of Alloys and Compounds	Mg	NiMg2(VO4)2	1 M Mg(ClO4)2ÔÚÒÒëæ		1000		127							300		96.47					
+10.1016/j.jallcom.2024.176518	2024/9/16	MIB0241	"An ultrafast, stable and highly reversible nickel magnesium vanadate cathode for magnesium ion batteries"	Journal of Alloys and Compounds	Mg	NiMg2(VO4)2	1 M Mg(ClO4)2ÔÚÒÒëæ		2000		119							300		96.65					
+"Spacing for High-Performance Magnesium Batteries"",Small,Mg,Ti3C2Tx£¨DL-MXene£©,APC,,50,70,,,,,,,,,,,,,APC,,"																									
+"10.1002/smtd.202400004,2024/2/7,MIB0165,""Pillar-Structured Ti3C2Tx MXene with Engineered Interlayer"																									
+"Spacing for High-Performance Magnesium Batteries"",Small,Mg,Ti3C2Tx£¨DL-MXene£©,APC,,20,80,,,,,,,,,,,,,,,"																									
+"10.1021/acssuschemeng.3c06270,2024/2/20,MIB0166,""Efficient and Stable Magnesium Plating/Stripping in High-Capacity"																									
+Novel Mg//Ni0.6Co0.4Se2 Batteries Enabled by Interfacial Chemistry																									
+"Modulation"",ACS Sustainable Chemistry & Engineering,Mg,Ni0.6Co0.4Se2,0.35 M Mg(HMDS)2-2AlCl3-I2/G2,,100,186,180,,100,120,,,,,,,,,,»ÆÑÇ·É,ÐÜÒ°"																									
+"10.1021/acssuschemeng.3c06270,2024/2/20,MIB0167,""Efficient and Stable Magnesium Plating/Stripping in High-Capacity"																									
+Novel Mg//Ni0.6Co0.4Se3 Batteries Enabled by Interfacial Chemistry																									
+"Modulation"",ACS Sustainable Chemistry & Engineering,Mg,Ni0.6Co0.4Se2,0.35 M Mg(HMDS)2-2AlCl3-I2/G2,,25,,182,,,,,,,,,,,,,,"																									
+"10.1021/acssuschemeng.3c06270,2024/2/20,MIB0168,""Efficient and Stable Magnesium Plating/Stripping in High-Capacity"																									
+Novel Mg//Ni0.6Co0.4Se4 Batteries Enabled by Interfacial Chemistry																									
+"Modulation"",ACS Sustainable Chemistry & Engineering,Mg,Ni0.6Co0.4Se2,0.35 M Mg(HMDS)2-2AlCl3-I2/G2,,50,,160,,,,,,,,,,,,,,"																									
+"10.1021/acssuschemeng.3c06270,2024/2/20,MIB0169,""Efficient and Stable Magnesium Plating/Stripping in High-Capacity"																									
+Novel Mg//Ni0.6Co0.4Se5 Batteries Enabled by Interfacial Chemistry																									
+"Modulation"",ACS Sustainable Chemistry & Engineering,Mg,Ni0.6Co0.4Se2,0.35 M Mg(HMDS)2-2AlCl3-I2/G2,,100,,126,,,,,,,,,,,,,,"																									
+"10.1021/acssuschemeng.3c06270,2024/2/20,MIB0170,""Efficient and Stable Magnesium Plating/Stripping in High-Capacity"																									
+Novel Mg//Ni0.6Co0.4Se6 Batteries Enabled by Interfacial Chemistry																									
+"Modulation"",ACS Sustainable Chemistry & Engineering,Mg,Ni0.6Co0.4Se2,0.35 M Mg(HMDS)2-2AlCl3-I2/G2,,200,,88,,,,,,,,,,,,,,"																									
+"10.1021/acssuschemeng.3c06270,2024/2/20,MIB0171,""Efficient and Stable Magnesium Plating/Stripping in High-Capacity"																									
+Novel Mg//Ni0.6Co0.4Se7 Batteries Enabled by Interfacial Chemistry																									
+"Modulation"",ACS Sustainable Chemistry & Engineering,Mg,Ni0.6Co0.4Se2,0.35 M Mg(HMDS)2-2AlCl3-I2/G2,,500,,71,,,,,,,,,,,,,,"																									
+"10.1021/acssuschemeng.3c06270,2024/2/20,MIB0172,""Efficient and Stable Magnesium Plating/Stripping in High-Capacity"																									
+Novel Mg//Ni0.6Co0.4Se8 Batteries Enabled by Interfacial Chemistry																									
+"Modulation"",ACS Sustainable Chemistry & Engineering,Mg,Ni0.6Co0.4Se2,0.35 M Mg(HMDS)2-2AlCl3-I2/G2,,1000,,49,,,,,,,,,,,,,,"																									
+"10.1021/acssuschemeng.3c06270,2024/2/20,MIB0173,""Efficient and Stable Magnesium Plating/Stripping in High-Capacity"																									
+Novel Mg//Ni0.6Co0.4Se9 Batteries Enabled by Interfacial Chemistry																									
+"Modulation"",ACS Sustainable Chemistry & Engineering,Mg,Ni0.6Co0.4Se2,0.35 M Mg(HMDS)2-2AlCl3-I2/G2,,2000,,30,,,,,,,,,,,,,,"																									
+"10.1021/acssuschemeng.3c06270,2024/2/20,MIB0174,""Efficient and Stable Magnesium Plating/Stripping in High-Capacity"																									
+Novel Mg//Ni0.6Co0.4Se10 Batteries Enabled by Interfacial Chemistry																									
+"Modulation"",ACS Sustainable Chemistry & Engineering,Mg,Ni0.6Co0.4Se2,0.25 M APC/THF,,100,44,,,10,0,,,,,,,,,,,"																									
+"10.1002/smll.202311587,2024/2/22,MIB0175,""Catalyzing Desolvation at Cathode-Electrolyte Interface"																									
+"Enabling High-Performance Magnesium-Ion Batteries"",Small,Mg,V2O5/MQDs,0.5 M Mg[N(SO2CF3)2]2- Mg(TFSI)2/DME,,50,,319.5,,200,200,,,,,,,,,,ÐÜÒ°,»ÆÑÇ·É"																									
+"10.1002/smll.202311587,2024/2/22,MIB0176,""Catalyzing Desolvation at Cathode-Electrolyte Interface"																									
+"Enabling High-Performance Magnesium-Ion Batteries"",Small,Mg,V2O5/MQDs,0.5 M Mg[N(SO2CF3)2]2- Mg(TFSI)2/DME,,25,,303,,,,,,,,,,,,,,"																									
+"10.1002/smll.202311587,2024/2/22,MIB0177,""Catalyzing Desolvation at Cathode-Electrolyte Interface"																									
+"Enabling High-Performance Magnesium-Ion Batteries"",Small,Mg,V2O5/MQDs,0.5 M Mg[N(SO2CF3)2]2- Mg(TFSI)2/DME,,50,,249.2,,,,,,,,,,,,,,"																									
+"10.1002/smll.202311587,2024/2/22,MIB0178,""Catalyzing Desolvation at Cathode-Electrolyte Interface"																									
+"Enabling High-Performance Magnesium-Ion Batteries"",Small,Mg,V2O5/MQDs,0.5 M Mg[N(SO2CF3)2]2- Mg(TFSI)2/DME,,100,,211.2,,,,,,,,,,,,,,"																									
+"10.1002/smll.202311587,2024/2/22,MIB0179,""Catalyzing Desolvation at Cathode-Electrolyte Interface"																									
+"Enabling High-Performance Magnesium-Ion Batteries"",Small,Mg,V2O5/MQDs,0.5 M Mg[N(SO2CF3)2]2- Mg(TFSI)2/DME,,200,,176.5,,,,,,,,,,,,,,"																									
+"10.1002/smll.202311587,2024/2/22,MIB0180,""Catalyzing Desolvation at Cathode-Electrolyte Interface"																									
+"Enabling High-Performance Magnesium-Ion Batteries"",Small,Mg,V2O5/MQDs,0.5 M Mg[N(SO2CF3)2]2- Mg(TFSI)2/DME,,300,,160.9,,,,,,,,,,,,,,"																									
+"10.1002/smll.202311587,2024/2/22,MIB0181,""Catalyzing Desolvation at Cathode-Electrolyte Interface"																									
+"Enabling High-Performance Magnesium-Ion Batteries"",Small,Mg,V2O5/MQDs,0.5 M Mg[N(SO2CF3)2]2- Mg(TFSI)2/DME,,500,,143.8,,,,,,,,,,,,,,"																									
+"10.1002/smll.202311587,2024/2/22,MIB0182,""Catalyzing Desolvation at Cathode-Electrolyte Interface"																									
+"Enabling High-Performance Magnesium-Ion Batteries"",Small,Mg,V2O5/MQDs,0.5 M Mg[N(SO2CF3)2]2- Mg(TFSI)2/DME,,1000,,118.8,,1000,112.9,77.1,,,,,,,,,,"																									
+"10.1002/smll.202311587,2024/2/22,MIB0183,""Catalyzing Desolvation at Cathode-Electrolyte Interface"																									
+"Enabling High-Performance Magnesium-Ion Batteries"",Small,Mg,V2O5/MQDs,0.5 M Mg[N(SO2CF3)2]2- Mg(TFSI)2/DME,,2000,,,,15000,70,,,,,,,,,,,"																									
+"https://doi.org/10.1002/anie.202401818,2024/3/11,MIB0184,""Unlocking Four-electron Conversion in Tellurium Cathodes for"																									
+"Advanced Magnesium-based Dual-ion Batteries"",Angewandte Chemie International Edition,Mg,Te,0.5 M Mg(TFSI)2/MACCµç½âÒº,,400,543,543,,,,,,,,,,,,,»ÆÑÇ·É,ÐÜÒ°"																									
+"https://doi.org/10.1002/anie.202401818,2024/3/11,MIB0185,""Unlocking Four-electron Conversion in Tellurium Cathodes for"																									
+"Advanced Magnesium-based Dual-ion Batteries"",Angewandte Chemie International Edition,Mg,Te,0.5 M Mg(TFSI)2/MACCµç½âÒº,,2000,,356,,,,,,,,,,,,,,"																									
+"https://doi.org/10.1002/anie.202401818,2024/3/11,MIB0186,""Unlocking Four-electron Conversion in Tellurium Cathodes for"																									
+"Advanced Magnesium-based Dual-ion Batteries"",Angewandte Chemie International Edition,Mg,Te,0.5 M Mg(TFSI)2/MACCµç½âÒº,,1000,,,,100,308,,,,,,,,,,,"																									
+"https://doi.org/10.1002/anie.202401818,2024/3/11,MIB0187,""Unlocking Four-electron Conversion in Tellurium Cathodes for"																									
+"Advanced Magnesium-based Dual-ion Batteries"",Angewandte Chemie International Edition,Mg,Te,0.5 M Mg(TFSI)2/MACCµç½âÒº,,2000,,,,100,280,,,,,,,,,,,"																									
+"https://doi.org/10.1002/batt.202400032,2024/3/19,MIB0188,""Triiodide Anion as a Magnesium-ion Transporter for Low"																									
+Overpotential Battery Cycling in Iodine-Containing Mg(TFSI)2																									
+"Electrolyte"",ACS Applied Materials & Interfaces,Mg,MgI2,Mg(TFSI)2,SEIÄ¤,,,,,,,,,,,,,,,,»ÆÑÇ·É,ÐÜÒ°"																									
+"https://doi.org/10.1039/D4TA00639A,2024/3/27,MIB0189,Copper selenide/amino hyperbranched polymer as an 2 organic/inorganic hybrid composite cathode for 3 rechargeable magnesium batteries,Journal of  Materials Chemistry A,Mg,CuSe-AHP,Mg(TFSI)2/DME-MgCl2,,100,,227,,,,,,50,172.3,,,,,,»ÆÑÇ·É,ÐÜÒ°"																									
+"https://doi.org/10.1039/D4TA00639A,2024/3/27,MIB0190,Copper selenide/amino hyperbranched polymer as an 2 organic/inorganic hybrid composite cathode for 4 rechargeable magnesium batteries,Journal of  Materials Chemistry A,Mg,CuSe-AHP,Mg(TFSI)2/DME-MgCl2,,1000,,87.5,,,,,,,,,,,,,,"																									
+"https://doi.org/10.1039/D4TA00639A,2024/3/27,MIB0191,Copper selenide/amino hyperbranched polymer as an 2 organic/inorganic hybrid composite cathode for 5 rechargeable magnesium batteries,Journal of  Materials Chemistry A,Mg,CuSe-AHP,Mg(TFSI)2/DME-MgCl2,,200,,121,,200,121,75.4,,,,,,,,,,"																									
+"https://doi.org/10.1039/D4TA00639A,2024/3/27,MIB0192,Copper selenide/amino hyperbranched polymer as an 2 organic/inorganic hybrid composite cathode for 6 rechargeable magnesium batteries,Journal of  Materials Chemistry A,Mg,CuSe-AHP,Mg(TFSI)2/DME-MgCl2,,500,,,,400,105,75,,,,,,,,,,"																									
+"https://doi.org/10.1039/D4TA00639A,2024/3/27,MIB0193,Copper selenide/amino hyperbranched polymer as an 2 organic/inorganic hybrid composite cathode for 7 rechargeable magnesium batteries,Journal of  Materials Chemistry A,Mg,CuSe,Mg(TFSI)2/DME-MgCl3,,100,,211,,,,,,50,284.2,,,,,,,"																									
+"https://doi.org/10.1039/D4TA00639A,2024/3/27,MIB0194,Copper selenide/amino hyperbranched polymer as an 2 organic/inorganic hybrid composite cathode for 8 rechargeable magnesium batteries,Journal of  Materials Chemistry A,Mg,CuSe,Mg(TFSI)2/DME-MgCl3,,200,,,,200,49,14.33,,,,,,,,,,"																									
+"https://doi.org/10.1002/batt.202400032,2024/3/27,MIB0195,""Tin-containing Silicon Oxycarbonitride Ceramic Nanocomposites"																									
+"as Stable Anode for Magnesium Ion Batteries"",Batteries & Supercaps,Sn(0.422)/SiOCN,CuSe,PhMgcl/THF-AlCl3,,0.5,489.9,,,,,,,,,,,,,,»ÆÑÇ·É,ÐÜÒ°"																									
+"https://doi.org/10.1002/batt.202400032,2024/3/27,MIB0196,""Tin-containing Silicon Oxycarbonitride Ceramic Nanocomposites"																									
+"as Stable Anode for Magnesium Ion Batteries"",Batteries & Supercaps,Sn(0.423)/SiOCN,CuSe,PhMgcl/THF-AlCl3,,50,172.9,,,,,,,,,,,,,,,"																									
+"https://doi.org/10.1002/batt.202400032,2024/3/27,MIB0197,""Tin-containing Silicon Oxycarbonitride Ceramic Nanocomposites"																									
+"as Stable Anode for Magnesium Ion Batteries"",Batteries & Supercaps,Sn(0.424)/SiOCN,CuSe,PhMgcl/THF-AlCl3,,500,136.6,,,,,,,,,,,,,,,"																									
+"https://doi.org/10.1002/batt.202400032,2024/3/27,MIB0198,""Tin-containing Silicon Oxycarbonitride Ceramic Nanocomposites"																									
+"as Stable Anode for Magnesium Ion Batteries"",Batteries & Supercaps,Sn(0.338)/SiOCN,CuSe,PhMgcl/THF-AlCl4,,500,,,,100,101.8,76.5,,,,,,,,,,"																									
+"10.1016/j.apsusc.2024.159995,2024/3/27,MIB0199,High-rate aqueous magnesium ion battery enabled by Li/Mg hybrid,Applied Surface Science,Mg,MnO2/GO, Mg(TFSI)2/LiTFSI,,100,259.2,,,,,,,,,,,,,,ÐÜÒ°,»ÆÑÇ·É"																									
+"10.1016/j.apsusc.2024.159995,2024/3/27,MIB0200,High-rate aqueous magnesium ion battery enabled by Li/Mg hybrid,Applied Surface Science,Mg,MnO2/GO, Mg(TFSI)2/LiTFSI,,200,219.6,,,,,,,,,,,,,,,"																									
+"10.1016/j.apsusc.2024.159995,2024/3/27,MIB0201,High-rate aqueous magnesium ion battery enabled by Li/Mg hybrid,Applied Surface Science,Mg,MnO2/GO, Mg(TFSI)2/LiTFSI,,500,208.5,,,,,,,,,,,,,,,"																									
+"10.1016/j.apsusc.2024.159995,2024/3/27,MIB0202,High-rate aqueous magnesium ion battery enabled by Li/Mg hybrid,Applied Surface Science,Mg,MnO2/GO, Mg(TFSI)2/LiTFSI,,1000,200.8,,,,,,,,,,,,,,,"																									
+"10.1016/j.apsusc.2024.159995,2024/3/27,MIB0203,High-rate aqueous magnesium ion battery enabled by Li/Mg hybrid,Applied Surface Science,Mg,MnO2/GO, Mg(TFSI)2/LiTFSI,,2000,187.1,,,,,,,,,,,,,,,"																									
+"10.1002/smll.202400903,2024/4/15,MIB0204,Amorphous Cobalt Polyselenides with Hyperbranched Polymer Additive as High©\Capacity Magnesium Storage Cathode Materials Through Cationic and Anionic Co©\Redox Mechanism,small,Mg,CoSe2.7,0.5MMg(TFSI)2? and 1M MgCl2? in DME ,,50,,246.6,,,,,,,,,,,,,ÐÜÒ°,»ÆÑÇ·É"																									
+"10.1002/smll.202400903,2024/4/15,MIB0205,Amorphous Cobalt Polyselenides with Hyperbranched Polymer Additive as High©\Capacity Magnesium Storage Cathode Materials Through Cationic and Anionic Co©\Redox Mechanism,small,Mg,CoSe2.7,0.5MMg(TFSI)2? and 1M MgCl2? in DME ,,2000,,94,,,,,,,,,,,,,,"																									
+"10.1002/smll.202400903,2024/4/15,MIB0206,Amorphous Cobalt Polyselenides with Hyperbranched Polymer Additive as High©\Capacity Magnesium Storage Cathode Materials Through Cationic and Anionic Co©\Redox Mechanism,small,Mg,CoSe2.7,0.5MMg(TFSI)2? and 1M MgCl2? in DME ,,500,130,,,300,,68.6,,,,,,,,,,"																									
+"10.1007/s12274-024-6596-3,2024/4/30,MIB0207,""Highly cycle-stable VOPO4-based cathodes for magnesium ion"																									
+batteries: Insight into the role of interlayer engineering in batteries																									
+"performance"",Nano Research,Mg,VPO-1,Mg(TFSI)2?in DME,,100,,,,100,,,,,,,,,,,»ÆÑÇ·É,ÐÜÒ°"																									
+"10.1007/s12274-024-6596-3,2024/4/30,MIB0208,""Highly cycle-stable VOPO4-based cathodes for magnesium ion"																									
+batteries: Insight into the role of interlayer engineering in batteries																									
+"performance"",Nano Research,Mg,VPO-2,Mg(TFSI)2?in DME,,100,,176.7,,100,,89.5,,,,,,,,,,"																									
+"10.1007/s12274-024-6596-3,2024/4/30,MIB0209,""Highly cycle-stable VOPO4-based cathodes for magnesium ion"																									
+batteries: Insight into the role of interlayer engineering in batteries																									
+"performance"",Nano Research,Mg,VPO-3,Mg(TFSI)2?in DME,,100,,217.6,1.0V 2.0V,100,,94.8,,,,,,,,,,"																									
+"10.1007/s12274-024-6596-3,2024/4/30,MIB0210,""Highly cycle-stable VOPO4-based cathodes for magnesium ion"																									
+batteries: Insight into the role of interlayer engineering in batteries																									
+"performance"",Nano Research,Mg,VPO-3,Mg(TFSI)2?in DME,,,,,,500,200,,,,,,,,,,,"																									
+"10.1007/s12274-024-6596-3,2024/4/30,MIB0211,""Highly cycle-stable VOPO4-based cathodes for magnesium ion"																									
+batteries: Insight into the role of interlayer engineering in batteries																									
+"performance"",Nano Research,Mg,VPO-3,Mg(TFSI)2?in DME,,,,,,800,191.3,,,,,,,,,,,"																									
+"10.1007/s12274-024-6596-3,2024/4/30,MIB0212,""Highly cycle-stable VOPO4-based cathodes for magnesium ion"																									
+batteries: Insight into the role of interlayer engineering in batteries																									
+"performance"",Nano Research,Mg,VPO-3,Mg(TFSI)2?in DME,,200,,188.8,,,,,,,,,,,,,,"																									
+"10.1007/s12274-024-6596-3,2024/4/30,MIB0213,""Highly cycle-stable VOPO4-based cathodes for magnesium ion"																									
+batteries: Insight into the role of interlayer engineering in batteries																									
+"performance"",Nano Research,Mg,VPO-3,Mg(TFSI)2?in DME,,300,,170.7,,,,,,,,,,,,,,"																									
+"10.1007/s12274-024-6596-3,2024/4/30,MIB0214,""Highly cycle-stable VOPO4-based cathodes for magnesium ion"																									
+batteries: Insight into the role of interlayer engineering in batteries																									
+"performance"",Nano Research,Mg,VPO-3,Mg(TFSI)2?in DME,,500,,153.4,,,,,,,,,,,,,,"																									
+"10.1007/s12274-024-6596-3,2024/4/30,MIB0215,""Highly cycle-stable VOPO4-based cathodes for magnesium ion"																									
+batteries: Insight into the role of interlayer engineering in batteries																									
+"performance"",Nano Research,Mg,VPO-3,Mg(TFSI)2?in DME,,1000,,120.6,,,,,,,,,,,,,,"																									
+"10.1007/s12274-024-6596-3,2024/4/30,MIB0216,""Highly cycle-stable VOPO4-based cathodes for magnesium ion"																									
+batteries: Insight into the role of interlayer engineering in batteries																									
+"performance"",Nano Research,Mg,VPO-3,Mg(TFSI)2?in DME,,,,,,,,,,,,,,,,,,"																									
+"10.1007/s12274-024-6596-3,2024/4/30,MIB0217,""Highly cycle-stable VOPO4-based cathodes for magnesium ion"																									
+batteries: Insight into the role of interlayer engineering in batteries																									
+"performance"",Nano Research,Mg,VPO-3,Mg(TFSI)2?in DME,,,,,,,,,,,,,,,,,,"																									
+"10.1007/s12274-024-6596-3,2024/4/30,MIB0218,""Highly cycle-stable VOPO4-based cathodes for magnesium ion"																									
+batteries: Insight into the role of interlayer engineering in batteries																									
+"performance"",Nano Research,Mg,VPO-4,Mg(TFSI)2?in DME,,100,,233.1,1.0V 2.0V,100,,70.1,,,,,,,,,,"																									
+"10.1016/j.cej.2024.152569,2024/5/26,MIB0219,""Constructing Cu9S5@CuSe heterostructures under microwave irradiation "																									
+"for rechargeable magnesium batteries "",Chemical Engineering Journal ,Mg,Cu9S5@CuSe,R-PhOMgCl2/AlCl3/THF,,50,,240,,,,,,,,,,,,,»ÆÑÇ·É,ÐÜÒ°"																									
+"10.1016/j.cej.2024.152569,2024/5/26,MIB0220,""Constructing Cu9S5@CuSe heterostructures under microwave irradiation "																									
+"for rechargeable magnesium batteries "",Chemical Engineering Journal ,Mg,Cu9S5@CuSe,R-PhOMgCl2/AlCl3/THF,,500,,,,1000,94.3,,,,,,,,,,,"																									
+"10.1016/j.cej.2024.152569,2024/5/26,MIB0221,""Constructing Cu9S5@CuSe heterostructures under microwave irradiation "																									
+"for rechargeable magnesium batteries "",Chemical Engineering Journal ,Mg,Cu9S5@CuSe,R-PhOMgCl2/AlCl3/THF,,100,98,,,100,504,,,,,,,,,,,"																									
+"10.1016/j.cej.2024.152569,2024/5/26,MIB0222,""Constructing Cu9S5@CuSe heterostructures under microwave irradiation "																									
+"for rechargeable magnesium batteries "",Chemical Engineering Journal ,Mg,Cu9S5@CuSe,R-PhOMgCl2/AlCl3/THF,,50,199.9,,,,,,,,,,,,,,,"																									
+"10.1016/j.cej.2024.152569,2024/5/26,MIB0223,""Constructing Cu9S5@CuSe heterostructures under microwave irradiation "																									
+"for rechargeable magnesium batteries "",Chemical Engineering Journal ,Mg,Cu9S5@CuSe,R-PhOMgCl2/AlCl3/THF,,100,103.3,,,,,,,,,,,,,,,"																									
+"10.1016/j.cej.2024.152569,2024/5/26,MIB0224,""Constructing Cu9S5@CuSe heterostructures under microwave irradiation "																									
+"for rechargeable magnesium batteries "",Chemical Engineering Journal ,Mg,Cu9S5@CuSe,R-PhOMgCl2/AlCl3/THF,,200,67.7,,,,,,,,,,,,,,,"																									
+"10.1016/j.cej.2024.152569,2024/5/26,MIB0225,""Constructing Cu9S5@CuSe heterostructures under microwave irradiation "																									
+"for rechargeable magnesium batteries "",Chemical Engineering Journal ,Mg,Cu9S5@CuSe,R-PhOMgCl2/AlCl3/THF,,300,48.3,,,,,,,,,,,,,,,"																									
+"10.1016/j.cej.2024.152569,2024/5/26,MIB0226,""Constructing Cu9S5@CuSe heterostructures under microwave irradiation "																									
+"for rechargeable magnesium batteries "",Chemical Engineering Journal ,Mg,Cu9S5@CuSe,R-PhOMgCl2/AlCl3/THF,,500,30.4,,,,,,,,,,,,,,,"																									
+"10.1016/j.ensm.2024.103539,2024/6/5,MIB0227,""Initiating cationic-anionic chemistry with stepwise surface-to-inner "																									
+conversion in copper selenide superstructures for high-energy rechargeable 																									
+"magnesium batteries "",Energy Storage Materials,Mg,Cu2-xSe,R-PhOMgCl2/AlCl3/THF,,100,,385.4,,,,,,,,,,,,,»ÆÑÇ·É,ÐÜÒ°"																									
+"10.1016/j.ensm.2024.103539,2024/6/5,MIB0228,""Initiating cationic-anionic chemistry with stepwise surface-to-inner "																									
+conversion in copper selenide superstructures for high-energy rechargeable 																									
+"magnesium batteries "",Energy Storage Materials,Mg,Cu2-xSe,R-PhOMgCl2/AlCl3/THF,,1000,,,,700,,,,,,,,,,,,"																									
+"10.1016/j.ensm.2024.103539,2024/6/5,MIB0229,""Initiating cationic-anionic chemistry with stepwise surface-to-inner "																									
+conversion in copper selenide superstructures for high-energy rechargeable 																									
+"magnesium batteries "",Energy Storage Materials,Mg,Cu2-xSe,R-PhOMgCl2/AlCl3/THF,,5000,,,,3000,,,,,,,,,,,,"																									
+"10.1021/acs.energyfuels.4c01979,2024/6/11,MIB0230,Insoluble Polyquinonyl Sulfide as High-Capacity Cathode Material for Magnesium Battery,Photonics for Energy,Mg,PPTS,0.3M Mg[B(hfip)4]2/DME,,100,,241,,,,,,,,,,,,,ÐÜÒ°,»ÆÑÇ·É"																									
+"10.1021/acs.energyfuels.4c01979,2024/6/11,MIB0231,Insoluble Polyquinonyl Sulfide as High-Capacity Cathode Material for Magnesium Battery,Photonics for Energy,Mg,PPTS,0.3M Mg[B(hfip)4]2/DME,,2000,,131,,,,,,,,,,,,,,"																									
+"10.1021/acs.energyfuels.4c01979,2024/6/11,MIB0232,Insoluble Polyquinonyl Sulfide as High-Capacity Cathode Material for Magnesium Battery,Photonics for Energy,Mg,PPTS,0.3M Mg[B(hfip)4]2/DME,,200,205,,,,,,,,,,,,,,,"																									
+"10.1021/acs.energyfuels.4c01979,2024/6/11,MIB0233,Insoluble Polyquinonyl Sulfide as High-Capacity Cathode Material for Magnesium Battery,Photonics for Energy,Mg,PPTS,0.3M Mg[B(hfip)4]2/DME,,1000,167,,,,,,,,,,,,,,,"																									
+"10.1021/acs.energyfuels.4c01979,2024/6/11,MIB0234,Insoluble Polyquinonyl Sulfide as High-Capacity Cathode Material for Magnesium Battery,Photonics for Energy,Mg,PT,0.3M Mg[B(hfip)4]2/DME,,100,163,,,,,,,,,,,,,,,"																									
+"10.1021/acs.energyfuels.4c01979,2024/6/11,MIB0235,Insoluble Polyquinonyl Sulfide as High-Capacity Cathode Material for Magnesium Battery,Photonics for Energy,Mg,PT,0.3M Mg[B(hfip)4]2/DME,,200,113,,,,,,,,,,,,,,,"																									
+"10.1021/acs.energyfuels.4c01979,2024/6/11,MIB0236,Insoluble Polyquinonyl Sulfide as High-Capacity Cathode Material for Magnesium Battery,Photonics for Energy,Mg,PT,0.3M Mg[B(hfip)4]2/DME,,1000,58,,,,,,,,,,,,,,,"																									
+"10.1021/acs.energyfuels.4c01979,2024/6/11,MIB0237,Insoluble Polyquinonyl Sulfide as High-Capacity Cathode Material for Magnesium Battery,Photonics for Energy,Mg,PT,0.3M Mg[B(hfip)4]2/DME,,2000,42,,,,,,,,,,,,,,,"																									
+"10.1021/acsaem.4c00937,2024/7/2,MIB0238,""Interlayer Regulatory Engineering of NiO2 by Introducing H+ for"																									
+"High-Rate Mg Ion Storage"",ACS Applied Energy Materials ,Mg,Mg,,,,,,,,,,,,,,,,,,»ÆÑÇ·É,ÐÜÒ°"																									
+"10.1016/j.jallcom.2024.176518,2024/9/16,MIB0239,""An ultrafast, stable and highly reversible nickel magnesium vanadate cathode for magnesium ion batteries"",Journal of Alloys and Compounds,Mg,NiMg2(VO4)2,1 M Mg(ClO4)2ÔÚÒÒëæ,,200,,185,,,,,,,,,,,,,ÐÜÒ°,»ÆÑÇ·É"																									
+"10.1016/j.jallcom.2024.176518,2024/9/16,MIB0240,""An ultrafast, stable and highly reversible nickel magnesium vanadate cathode for magnesium ion batteries"",Journal of Alloys and Compounds,Mg,NiMg2(VO4)2,1 M Mg(ClO4)2ÔÚÒÒëæ,,1000,,127,,,,,,,300,,96.47,,,,,"																									
+"10.1016/j.jallcom.2024.176518,2024/9/16,MIB0241,""An ultrafast, stable and highly reversible nickel magnesium vanadate cathode for magnesium ion batteries"",Journal of Alloys and Compounds,Mg,NiMg2(VO4)2,1 M Mg(ClO4)2ÔÚÒÒëæ,,2000,,119,,,,,,,300,,96.65,,,,,"																									
