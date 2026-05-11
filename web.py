@@ -187,21 +187,9 @@ def load_data():
     }
     data_dict = {}
     for name, filename in files.items():
-        try:
-            for enc in ['gbk', 'utf-8', 'gb2312', 'latin1']:
-                try:
-                    df = pd.read_excel(filename, encoding=enc)
-                    break
-                except UnicodeDecodeError:
-                    continue
-            else:
-                st.error(f"无法解码文件 {filename}")
-                continue
+            df = pd.read_excel(filename)  
             df.columns = df.columns.str.strip()
             data_dict[name] = df
-        except FileNotFoundError:
-            st.error(f"文件不存在: {filename}，请确保文件在正确目录下。")
-            continue
     return data_dict if data_dict else None
 
 
