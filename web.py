@@ -14,7 +14,9 @@ import openai
 import matplotlib.pyplot as plt
 import plotly.express as px
 import warnings
-
+import os
+import pandas as pd
+import streamlit as st
 warnings.filterwarnings('ignore')
 
 # ================== 页面配置 ==================
@@ -173,9 +175,7 @@ def save_model_to_disk(model, scaler, feature_cols, target_col, model_type, data
 
 # 读取所有CSV文件
 @st.cache_resource
-import os
-import pandas as pd
-import streamlit as st
+
 
 def load_data():
     # 获取当前脚本所在目录（Streamlit Cloud 中就是仓库根目录）
