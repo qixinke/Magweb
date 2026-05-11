@@ -183,7 +183,7 @@ def load_data():
         '镁合金腐蚀数据': 'Mag腐蚀数据.xlsx',
         '储氢催化剂': '储氢1.xlsx',
         '电催化数据': '电催化.xlsx',
-        '自修复聚氨酯': '自修复聚氨酯1.xlsx',
+        '自修复聚氨酯': '自修复聚氨酯.xlsx',
     }
     data_dict = {}
     for name, filename in files.items():
