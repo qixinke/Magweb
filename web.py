@@ -182,7 +182,7 @@ def load_data():
     base_dir = os.path.dirname(os.path.abspath(__file__))
     
     files = {
-        "离子液体": "离子液体.xlsx",
+        "离子液体": "离子液体1.xlsx",
         "镁二次电池": "镁二次电池数据库2024.11.12.xlsx",
         "镁合金储氢": "镁合金储氢数据库.xlsx",
         "镁空气电池": "镁空气电池数据收集.xlsx",
