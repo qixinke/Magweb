@@ -175,22 +175,22 @@ def save_model_to_disk(model, scaler, feature_cols, target_col, model_type, data
 @st.cache_resource
 def load_data():
     files = {
-        "离子液体": "离子液体.csv",
-        "镁二次电池": "镁二次电池数据库2024.11.12.csv",
-        "镁合金储氢": "镁合金储氢数据库.csv",
-        "镁空气电池": "镁空气电池数据收集.csv",
-        '镁合金力学性能': 'Mag力学性能.csv',
-        '镁合金腐蚀数据': 'Mag腐蚀数据.csv',
-        '储氢催化剂': '储氢1.csv',
-        '电催化数据': '电催化.csv',
-        '自修复聚氨酯': '自修复聚氨酯1.csv',
+        "离子液体": "离子液体.xlsx",
+        "镁二次电池": "镁二次电池数据库2024.11.12.xlsx",
+        "镁合金储氢": "镁合金储氢数据库.xlsx",
+        "镁空气电池": "镁空气电池数据收集.xlsx",
+        '镁合金力学性能': 'Mag力学性能.xlsx',
+        '镁合金腐蚀数据': 'Mag腐蚀数据.xlsx',
+        '储氢催化剂': '储氢1.xlsx',
+        '电催化数据': '电催化.xlsx',
+        '自修复聚氨酯': '自修复聚氨酯1.xlsx',
     }
     data_dict = {}
     for name, filename in files.items():
         try:
             for enc in ['gbk', 'utf-8', 'gb2312', 'latin1']:
                 try:
-                    df = pd.read_csv(filename, encoding=enc)
+                    df = pd.read_excel(filename, encoding=enc)
                     break
                 except UnicodeDecodeError:
                     continue
