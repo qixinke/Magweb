@@ -318,7 +318,7 @@ def show_login():
             password = st.text_input("密码", type="password", placeholder="••••••")
             submitted = st.form_submit_button("登录")
             if submitted:
-                if username == "admin" and password == "123456":
+                if username == "admin" and password == "GAMA2024":
                     st.session_state.logged_in = True
                     st.success("登录成功！")
                     st.rerun()
