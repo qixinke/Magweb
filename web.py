@@ -173,7 +173,14 @@ def save_model_to_disk(model, scaler, feature_cols, target_col, model_type, data
 
 # 读取所有CSV文件
 @st.cache_resource
+import os
+import pandas as pd
+import streamlit as st
+
 def load_data():
+    # 获取当前脚本所在目录（Streamlit Cloud 中就是仓库根目录）
+    base_dir = os.path.dirname(os.path.abspath(__file__))
+    
     files = {
         "离子液体": "离子液体.xlsx",
         "镁二次电池": "镁二次电池数据库2024.11.12.xlsx",
@@ -185,11 +192,24 @@ def load_data():
         '电催化数据': '电催化.xlsx',
         '自修复聚氨酯': '自修复聚氨酯.xlsx',
     }
+    
     data_dict = {}
     for name, filename in files.items():
-            df = pd.read_excel(filename)  
+        file_path = os.path.join(base_dir, filename)
+        
+        # 检查文件是否存在
+        if not os.path.exists(file_path):
+            st.error(f"❌ 文件不存在: {file_path}")
+            continue
+        
+        try:
+            df = pd.read_excel(file_path)
             df.columns = df.columns.str.strip()
             data_dict[name] = df
+            st.success(f"✅ 成功加载: {name}")
+        except Exception as e:
+            st.error(f"❌ 读取文件 {filename} 失败: {e}")
+    
     return data_dict if data_dict else None
 
 
