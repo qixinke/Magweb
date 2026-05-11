@@ -344,7 +344,7 @@ def back_to_home_button():
 def show_home(df_dict):
     st.markdown("---")
     st.title("🏠 数据平台首页")
-    st.markdown("欢迎使用**河南省轻金属材料防护与安全储能重点实验室**材料数据智能平台。")
+    st.markdown("欢迎使用**河南省轻金属材料防护与安全储能重点实验室**轻金属材料智能创制平台。")
 
     if df_dict is None or len(df_dict) == 0:
         st.error("没有加载到任何数据集，请检查数据文件。")
