@@ -20,7 +20,7 @@ import streamlit as st
 warnings.filterwarnings('ignore')
 
 # ================== 页面配置 ==================
-st.set_page_config(page_title="材料数据智能平台", layout="wide", initial_sidebar_state="expanded")
+st.set_page_config(page_title="轻金属材料智能创制平台", layout="wide", initial_sidebar_state="expanded")
 
 # ================== 全局自定义 CSS 美化 ==================
 st.markdown("""
@@ -206,7 +206,7 @@ def load_data():
             df = pd.read_excel(file_path)
             df.columns = df.columns.str.strip()
             data_dict[name] = df
-            st.success(f"✅ 成功加载: {name}")
+            #st.success(f"✅ 成功加载: {name}")
         except Exception as e:
             st.error(f"❌ 读取文件 {filename} 失败: {e}")
     
@@ -308,8 +308,8 @@ def show_login():
             else:
                 st.markdown('<div style="font-size: 2rem;">⚙️🔬</div>', unsafe_allow_html=True)
         with title_col2:
-            st.markdown('<h3 style="font-size: 50px;">轻金属材料防护与安全储能重点实验室</h3>', unsafe_allow_html=True)
-            st.markdown('<h1 style="font-size: 40px;">材料数据智能平台</h1>', unsafe_allow_html=True)
+            st.markdown('<h3 style="font-size: 50px;">河南省轻金属材料防护与安全储能重点实验室</h3>', unsafe_allow_html=True)
+            st.markdown('<h1 style="font-size: 40px;">轻金属材料智能创制平台</h1>', unsafe_allow_html=True)
             st.markdown('<p style="font-size: 30px; color: #475569;">AI for Materials Science</p>',
                         unsafe_allow_html=True)
 
